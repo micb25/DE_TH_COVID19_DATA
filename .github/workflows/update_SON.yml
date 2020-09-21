@@ -1,9 +1,6 @@
 name: daily SON update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "15 18 * * *"
 
