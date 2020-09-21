@@ -1,9 +1,6 @@
 name: daily SHL update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "00 17 * * *"
 
