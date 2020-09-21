@@ -10,6 +10,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | G           | Gera                   | [data_G/](data_G/)     | [https://unser.gera.de/corona/](https://unser.gera.de/corona/)
 | GRZ         | Greiz                  | [data_GRZ/](data_GRZ/) | [https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/](https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/)
 | J           | Jena                   | [data_J/](data_J/)     | [https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad](https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad)
+| NDH         | Nordhausen             | [data_NDH/](data_NDH/) | [https://www.landratsamt-nordhausen.de/informationen-coronavirus.html](https://www.landratsamt-nordhausen.de/informationen-coronavirus.html)
 | WE          | Weimar                 | [data_WE/](data_WE/)   | [https://stadt.weimar.de/aktuell/coronavirus/](https://stadt.weimar.de/aktuell/coronavirus/)
 | AP          | Weimarer Land          | -                      | keine Daten
 
