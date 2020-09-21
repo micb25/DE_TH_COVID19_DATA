@@ -12,6 +12,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | J           | Jena                   | [data_J/](data_J/)     | [https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad](https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad)
 | NDH         | Nordhausen             | [data_NDH/](data_NDH/) | [https://www.landratsamt-nordhausen.de/informationen-coronavirus.html](https://www.landratsamt-nordhausen.de/informationen-coronavirus.html)
 | SHL         | Suhl                   | [data_SHL/](data_SHL/) | [https://www.suhltrifft.de/content/blogsection/41/2246/](https://www.suhltrifft.de/content/blogsection/41/2246/)
+| UH          | Unstrut-Hainich-Kreis  | [data_UH/](data_UH/)   | [https://www.unstrut-hainich-kreis.de/index.php/informationen-zum-neuartigen-coronavirus](https://www.unstrut-hainich-kreis.de/index.php/informationen-zum-neuartigen-coronavirus)
 | WE          | Weimar                 | [data_WE/](data_WE/)   | [https://stadt.weimar.de/aktuell/coronavirus/](https://stadt.weimar.de/aktuell/coronavirus/)
 | AP          | Weimarer Land          | -                      | keine Daten
 
