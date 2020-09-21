@@ -1,9 +1,6 @@
 name: daily NDH update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "15 19 * * *"
 
