@@ -1,9 +1,6 @@
 name: daily G update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "30 20 * * *"
 

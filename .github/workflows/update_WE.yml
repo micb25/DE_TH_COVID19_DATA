@@ -1,9 +1,6 @@
 name: daily WE update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "15 20 * * *"
 
