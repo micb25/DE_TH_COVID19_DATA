@@ -1,9 +1,6 @@
 name: daily GRZ update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "45 20 * * *"
 
