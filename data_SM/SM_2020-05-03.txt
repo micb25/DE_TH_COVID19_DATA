@@ -1,0 +1,38 @@
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+COVID-19                                                                x
+Tägliches Lagebild
+
+Stand:          03.5.20 12:00
+
+
+
+
+Aspekt                                                                      Anzahl
+
+
+bestätigte Neuinfektionen seit der letzten Lagemeldung                        0
+
+Gesamtzahl der bisher Erkrankten (Infizierten) mit Laborbestätigung          98
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                   3
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                  8
+
+Verstorbene an COVID19                                                        2
+
+Verstorbene mit COVID19                                                       1
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)         2
+
+Gesamtzahl der Genesenen                                                     58
+
+
+
+
+Quarantänefälle                                                             Anzahl
+
+Erkrankte                                                                    37
+
+Verdachtsfälle (keine Erfassung am Wochenende)                               156
+
