@@ -1,9 +1,6 @@
 name: daily SOK update
 
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron: "45 17 * * *"
 
