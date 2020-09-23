@@ -1,0 +1,36 @@
+name: daily SM update
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "15 17 * * *"
+
+jobs:
+  update_page:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+      - name: set up Python 3.6
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6'
+      - name: Install dependencies
+        run: |
+          apt-get install poppler-utils
+          python -m pip install --upgrade pip
+          pip install requests
+      - name: download SM data
+        run: cd .github/workflows/ && env python3 ./download_SM.py && cd ../../
+      - name: Commit files
+        run: |
+          git config --local user.name  ${{ github.actor }}
+          git add ./data_SM/*.pdf ./data_SM/*.txt
+          git commit -m "daily SM update"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true 
