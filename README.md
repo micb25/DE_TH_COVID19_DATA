@@ -25,3 +25,8 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 22  | WE          | Weimar                 | [data_WE/](data_WE/)   | [https://stadt.weimar.de/aktuell/coronavirus/](https://stadt.weimar.de/aktuell/coronavirus/)
 | 23  | AP          | Weimarer Land          | keine Daten            | [https://weimarerland.de/landratsamt/index.html](https://weimarerland.de/landratsamt/index.html)
 
+Sonstige Thüringer Daten:
+
+| #   | Beschreibung                       | Ordner                               | Quelle |
+| :-- | :--                                | :--                                  | :--    |
+| 1   | Thüringer Schulen und Kindergärten | [data_TH_Schulen/](data_TH_Schulen/) | [https://bildung.thueringen.de/ministerium/coronavirus/](https://bildung.thueringen.de/ministerium/coronavirus/)
