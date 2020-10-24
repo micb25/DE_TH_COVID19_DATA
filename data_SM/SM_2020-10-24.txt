@@ -1,0 +1,72 @@
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+
+
+COVID-19 Tägliches Lagebild                                                         x
+
+Stand:                                                        24.10.20 10:00
+
+
+Aspekt                                                                                  Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                                   44
+
+Gesamtzahl der bisher Erkrankten (Infizierten) mit Laborbestätigung                      342
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                               7
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                              3
+
+Verstorbene an COVID19                                                                    4
+
+Verstorbene mit COVID19                                                                   3
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)                    17
+
+Gesamtzahl der Genesenen                                                                 229
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                        0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                                    72,0
+
+
+
+Quarantänefälle                                                                         Anzahl
+
+Erkrankte                                                                                106
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                           262
+
+
+Erkrankt nach
+Gemeinden / Ortsteilen                                        Erkrankte
+36452 Kaltennordheim                                                            1
+98530 Dillstädt                                                                 1
+98544 Zella-Mehlis                                                              7
+98544 Zella-Mehlis, Quarantäneort bei Freundin: 98527 Suhl                      1
+98547 Schwarza                                                                  2
+98574 Schmalkalden                                                              7
+98574 Schmalkalden / OT Asbach                                                  1
+98574 Schmalkalden / OT Näherstille                                             1
+98587 Steinbach-Hallenberg                                                     41
+98587 Steinbach-Hallenberg / OT Bermbach                                        1
+98587 Steinbach-Hallenberg / OT Herges-Hallenberg                               2
+98587 Steinbach-Hallenberg / OT Viernau                                         7
+98590 Rosa                                                                      7
+98590 Schwallungen                                                              6
+98593 Floh-Seligenthal                                                          2
+98593 Floh-Seligenthal / OT Floh                                                1
+98596 Brotterode-Trusetal / OT Brotterode                                       2
+98596 Brotterode-Trusetal / OT Trusetal                                         1
+98597 Breitungen                                                                1
+98617 Meiningen                                                                 6
+98617 Meiningen / OT Dreißigacker                                               1
+98617 Meiningen / OT Stepfershausen                                             2
+98617 Meiningen / OT Walldorf                                                   1
+98617 Meiningen, z. Zt. in Reha-Einrichtung Bavaria-Klinik, GA Dresden          1
+98631 Grabfeld / OT Nordheim                                                    2
+98631 Grabfeld / OT Wolfmannshausen                                             1
+Gesamtergebnis                                                             106
+
