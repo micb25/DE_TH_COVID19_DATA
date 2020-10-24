@@ -7,7 +7,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 1   | ABG         | Altenburger Land       | [data_ABG/](data_ABG/) | [https://www.altenburgerland.de/sixcms/detail.php?&_nav_id1=2508&_lang=de&id=371691](https://www.altenburgerland.de/sixcms/detail.php?&_nav_id1=2508&_lang=de&id=371691)
 | 2   | EIC         | Eichsfeld              | [data_EIC/](data_EIC/) | [https://www.kreis-eic.de/aktuelle-fallzahlen-im-landkreis-eichsfeld.html](https://www.kreis-eic.de/aktuelle-fallzahlen-im-landkreis-eichsfeld.html)
 | 3   | EA          | Eisenach               | [data_EA_WAK/](data_EA_WAK/) | siehe Wartburgkreis
-| 4   | EF          | Erfurt                 | [data_EF/](data_EF/)   | [https://www.erfurt.de/ef/de/service/aktuelles/topthemen/2020/134840.html](https://www.erfurt.de/ef/de/service/aktuelles/topthemen/2020/134840.html)
+| 4   | EF          | Erfurt                 | [data_EF/](data_EF/)   | [https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html](https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html)
 | 5   | G           | Gera                   | [data_G/](data_G/)     | [https://unser.gera.de/corona/](https://unser.gera.de/corona/)
 | 7   | GRZ         | Greiz                  | [data_GRZ/](data_GRZ/) | [https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/](https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/)
 | 10  | J           | Jena                   | [data_J/](data_J/)     | [https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad](https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad)
