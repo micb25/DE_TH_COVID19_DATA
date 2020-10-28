@@ -1,0 +1,71 @@
+Landkreis Schmalkalden-Meiningen
+Mittwoch, 28. Oktober 2020
+
+
+COVID-19 (Coronavirus SARS-CoV-2)
+
+Lagebild COVID-19_ Lagebild – 10.00 Uhr
+
+Gesundheitsamt
+28.10.2020
+
+Tägliche Lage:
+
+Aspekt                                                                                Anzahl
+Bestätigte Neuinfektionen seit der letzten Meldung                                    16
+Gesamtzahl der bisher (Infizierten)                                                   403
+Erkrankte mit Laborbestätigung
+Patienten in stationärer Behandlung - Erkrankung an COVID19                           6
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                          5
+Verstorbene an COVID19 (insgesamt)                                                    4
+Verstorbene mit COVID19 (insgesamt)                                                   3
+Genesene seit der letzten Meldung (keine Erfassung am Wochenende)                     9
+Gesamtzahl der Genesenen                                                              253
+Gesamt-COVID-19 Tests seit der letzten                                                5
+Lagemeldung*
+7-Tage-Inzidenz pro 100.000 Einwohner                                                 106,5
+
+Quarantäne
+Erkrankte                      143
+Ansteckungsverdächtige         391
+
+Anmerkung:
+*Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die durch das Gesundheitsamt
+durchgeführt wurden. Die Anzahl der durch Arztpraxen, Kliniken, etc. durchgeführten Tests liegen nicht
+vor.
+Aufschlüsselung der aktiven Fälle nach Gemeinden.
+
+Erkrankte nach                                      Spaltenbeschriftungen
+Gemeinde / Ortsteil                                             Erkrankte
+36452 Kaltennordheim                                                   1
+98544 Zella-Mehlis                                                    13
+98544 Zella-Mehlis (Quarantäne in 98527 Suhl)                          1
+98559 Oberhof                                                          2
+98574 Schmalkalden                                                     8
+98574 Schmalkalden / OT Asbach                                         1
+98574 Schmalkalden / OT Näherstille                                    1
+98587 Steinbach-Hallenberg                                            35
+98587 Steinbach-Hallenberg / OT Bermbach                               2
+98587 Steinbach-Hallenberg / OT Herges-Hallenberg                      3
+98587 Steinbach-Hallenberg / OT Viernau                               10
+98590 Rosa                                                             1
+98590 Schwallungen                                                     4
+98590 Schwallungen / OT Zillbach                                      34
+98593 Floh-Seligenthal                                                 3
+98593 Floh-Seligenthal / OT Kleinschmalkalden                          3
+98593 Floh-Seligenthal / OT Schnellbach                                1
+98596 Brotterode-Trusetal                                              3
+98596 Brotterode-Trusetal / OT Trusetal                                2
+98597 Breitungen                                                       2
+98617 Meiningen                                                        2
+98617 Meiningen / OT Dreißigacker                                      1
+98617 Meiningen / OT Henneberg                                         1
+98617 Meiningen / OT Stepfershausen                                    2
+98617 Meiningen / OT Walldorf                                          1
+98617 Meiningen (z. Zt. in Reha-Einrichtung)                           1
+98617 Untermaßfeld                                                     1
+98631 Grabfeld / OT Nordheim                                           2
+98631 Grabfeld / OT Wolfmannshausen                                    1
+98639 Rippershausen                                                    1
+Gesamt                                                               143
+
