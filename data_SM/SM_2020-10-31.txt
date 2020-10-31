@@ -1,0 +1,78 @@
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+
+
+COVID-19 Tägliches Lagebild                                                               x
+
+Stand:                                                        31.10.20 10:00
+
+
+Aspekt                                                                                        Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                                         18
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                         451
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                     5
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                    4
+
+Verstorbene an COVID19                                                                          5
+
+Verstorbene mit COVID19                                                                         5
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)                          15
+
+Gesamtzahl der Genesenen                                                                       287
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                              0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                                          87,3
+
+
+
+Quarantänefälle                                                                               Anzahl
+
+aktive positive Fälle                                                                          154
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                                 365
+
+
+Infizierte nach
+Gemeinden / Ortsteilen                                        aktive positive Fälle
+98530 Dillstädt                                                                       2
+98544 Zella-Mehlis                                                               18
+98547 Kühndorf                                                                        1
+98547 Schwarza                                                                        1
+98559 Oberhof                                                                         2
+98574 Schmalkalden                                                               13
+98574 Schmalkalden / OT Asbach                                                        1
+98574 Schmalkalden / OT Springstille                                                  1
+98587 Steinbach-Hallenberg                                                       32
+98587 Steinbach-Hallenberg / OT Bermbach                                              1
+98587 Steinbach-Hallenberg / OT Herges-Hallenberg                                     1
+98587 Steinbach-Hallenberg / OT Viernau                                               8
+98590 Schwallungen                                                                    5
+98590 Schwallungen / OT Zillbach                                                 34
+98593 Floh-Seligenthal                                                                5
+98593 Floh-Seligenthal / OT Kleinschmalkalden                                         2
+98593 Floh-Seligenthal / OT Schnellbach                                               1
+98596 Brotterode-Trusetal / OT Brotterode                                             2
+98596 Brotterode-Trusetal / OT Trusetal                                               3
+98597 Breitungen                                                                      3
+98617 Meiningen                                                                       4
+98617 Meiningen / OT Henneberg                                                        1
+98617 Meiningen / OT Herpf                                                            2
+98617 Meiningen / OT Stepfershausen                                                   2
+98617 Meiningen / OT Walldorf                                                         1
+98617 Untermaßfeld                                                                    1
+98631 Grabfeld                                                                        1
+98631 Grabfeld / OT Jüchsen                                                           1
+98631 Grabfeld / OT Wolfmannshausen                                                   2
+98634 Mehmels                                                                         1
+98634 Wasungen                                                                        1
+98639 Rippershausen                                                                   1
+Gesamtergebnis                                                                  154
+
