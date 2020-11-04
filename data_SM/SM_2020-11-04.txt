@@ -1,0 +1,89 @@
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+COVID-19 Tägliches Lagebild                                                           x
+
+Stand:                                                        04.11.20 10:00
+
+
+Aspekt                                                                                    Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                                     31
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                     514
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                 4
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                8
+
+Verstorbene an COVID19                                                                      5
+
+Verstorbene mit COVID19                                                                     7
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)                      42
+
+Gesamtzahl der Genesenen                                                                   353
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                          8
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                                      88,1
+
+
+
+Quarantänefälle                                                                           Anzahl
+
+aktive positive Fälle                                                                      149
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                             413
+
+
+
+
+Infizierte nach
+Gemeinden / Ortsteilen                                        aktive positive Fälle
+36452 Kaltennordheim / OT Aschenhausen                                            1
+36452 Kaltennordheim / OT Melpers                                                 1
+98530 Dillstädt                                                                   2
+98544 Zella-Mehlis                                                               16
+98547 Kühndorf                                                                    2
+98547 Schwarza                                                                    1
+98559 Oberhof                                                                     2
+98574 Christes                                                                    1
+98574 Schmalkalden                                                               13
+98574 Schmalkalden / OT Asbach                                                    2
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+98574 Schmalkalden / OT Niederschmalkalden                      1
+98574 Schmalkalden / OT Springstille                            1
+98587 Steinbach-Hallenberg                                     14
+98587 Steinbach-Hallenberg / OT Herges-Hallenberg               1
+98587 Steinbach-Hallenberg / OT Viernau                         3
+98590 Schwallungen                                              4
+98590 Schwallungen / OT Zillbach                               33
+98593 Floh-Seligenthal                                          5
+98593 Floh-Seligenthal / OT Kleinschmalkalden                   2
+98593 Floh-Seligenthal / OT Schnellbach                         1
+98596 Brotterode-Trusetal / OT Brotterode                       2
+98596 Brotterode-Trusetal / OT Trusetal                         2
+98597 Breitungen                                                3
+98597 Fambach                                                   3
+98617 Meiningen                                                10
+98617 Meiningen / OT Henneberg                                  1
+98617 Meiningen / OT Herpf                                      1
+98617 Meiningen / OT Stepfershausen                             1
+98617 Meiningen / OT Walldorf                                   1
+98617 Obermaßfeld-Grimmenthal                                   1
+98617 Rhönblick                                                 1
+98617 Rhönblick / OT Helmershausen                              2
+98617 Sülzfeld                                                  1
+98617 Utendorf                                                  6
+98631 Grabfeld                                                  1
+98631 Grabfeld / OT Jüchsen                                     1
+98631 Grabfeld / OT Wolfmannshausen                             3
+98634 Frankenheim/Rhön                                          1 Neu gemeldet
+98634 Mehmels                                                   1
+98634 Wasungen                                                  1
+Gesamtergebnis                                                149
+
