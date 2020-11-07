@@ -1,0 +1,106 @@
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+COVID-19 Tägliches Lagebild                                                    x
+
+Stand:                                                        07.11.20 10:00
+
+
+Aspekt                                                                             Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                              30
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                              572
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                          2
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                        13
+
+Verstorbene an COVID19                                                               8
+
+Verstorbene mit COVID19                                                              7
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)                0
+
+Gesamtzahl der Genesenen                                                            414
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                   0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                               98,5
+
+
+
+Quarantänefälle                                                                    Anzahl
+
+aktive positive Fälle                                                               143
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                      418
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+COVID-19 Tägliches Lagebild                                                           x
+
+Stand:                                                        07.11.20 10:00
+
+Infizierte nach
+Gemeinden / Ortsteilen                                        aktive positive Fälle
+36452 Kaltennordheim / OT Aschenhausen                                            1
+36452 Kaltennordheim / OT Kaltenlengsfeld                                         1
+36452 Kaltennordheim / OT Kaltensundheim                                          1
+36452 Kaltennordheim / OT Melpers                                                 2
+98527 Suhl, Quarantäneadresse:98574 Schmalkalden,                                 1
+98530 Dillstädt                                                                   3
+98530 Rohr                                                                        1
+98544 Zella-Mehlis                                                               14
+98544 Zella-Mehlis / OT Benshausen                                                1
+98547 Christes                                                                    2
+98547 Kühndorf                                                                    1
+98547 Schwarza                                                                    1
+98559 Oberhof                                                                     5
+98574 Schmalkalden                                                               14
+98574 Schmalkalden / OT Asbach                                                    2
+98574 Schmalkalden / OT Mittelstille                                              1
+98574 Schmalkalden / OT Möckers                                                   2
+98574 Schmalkalden / OT Niederschmalkalden                                        1
+98587 Steinbach-Hallenberg                                                       15
+98587 Steinbach-Hallenberg / OT Oberschönau                                       1
+98587 Steinbach-Hallenberg / OT Viernau                                           3
+98590 Schwallungen                                                                4
+98590 Schwallungen / OT Eckardts                                                  2
+98590 Schwallungen / OT Zillbach                                                  2
+98593 Floh-Seligenthal                                                            2
+98593 Floh-Seligenthal / OT Kleinschmalkalden                                     2
+98593 Floh-Seligenthal / OT Struth-Helmershof                                     1
+98596 Brotterode-Trusetal / OT Brotterode                                         2
+98596 Brotterode-Trusetal / OT Trusetal                                           1
+98597 Breitungen                                                                  4
+98597 Fambach                                                                     2
+98597 Fambach / OT Heßles                                                         1
+98617 Leutersdorf                                                                 1
+98617 Meiningen                                                                  15
+98617 Meiningen / OT Dreißigacker                                                 2
+98617 Meiningen / OT Herpf                                                        1
+98617 Meiningen / OT Stepfershausen                                               1
+98617 Meiningen / OT Walldorf                                                     2 Neu gemeldet
+Landratsamt Schmalkalden-Meiningen
+Fachbereich Soziales, Jugend und Gesundheit - FD Gesundheit
+
+COVID-19 Tägliches Lagebild                                                          x
+
+Stand:                                                        07.11.20 10:00
+
+98617 Neubrunn                                                                   2
+98617 Obermaßfeld-Grimmenthal                                                    2
+98617 Rhönblick / OT Helmershausen                                               2
+98617 Rhönblick / OT Wohlmuthausen                                               1
+98617 Ritschenhausen                                                             2
+98617 Utendorf                                                                   8
+98631 Grabfeld                                                                   1
+98631 Grabfeld / OT Jüchsen                                                      1
+98631 Grabfeld / OT Rentwertshausen                                              1
+98631 Grabfeld / OT Wolfmannshausen                                              2
+98634 Frankenheim/Rhön                                                           1
+98634 Wasungen                                                                   2
+Gesamtergebnis                                                                 143
+
