@@ -1,0 +1,86 @@
+COVID-19 Tägliches Lagebild                                               x
+
+Stand:                                                   11.11.20 10:00
+
+
+Aspekt                                                                        Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                         14
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         607
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                     4
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                   12
+
+Verstorbene an COVID19                                                          9
+
+Verstorbene mit COVID19                                                         8
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)          18
+
+Gesamtzahl der Genesenen                                                       446
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                              7
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                          74,5
+
+
+
+Quarantänefälle                                                               Anzahl
+
+aktive positive Fälle                                                          144
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                 382
+Infizierte nach
+Gemeinden / Ortsteilen                          aktive positive Fälle
+36452 Kaltennordheim / OT Aschenhausen                             1
+36452 Kaltennordheim / OT Kaltenlengsfeld                          1
+36452 Kaltennordheim / OT Kaltensundheim                           1
+36452 Kaltennordheim / OT Melpers                                  1
+98530 Dillstädt                                                    2
+98530 Rohr                                                         1
+98544 Zella-Mehlis                                                13
+98544 Zella-Mehlis / OT Benshausen                                 2
+98547 Christes                                                     2
+98547 Kühndorf                                                     3
+98547 Schwarza                                                     1
+98559 Oberhof                                                      4
+98574 Schmalkalden                                                13
+98574 Schmalkalden / OT Mittelstille                               1
+98574 Schmalkalden / OT Möckers                                    2
+98574 Schmalkalden / OT Niederschmalkalden                         1
+98574 Schmalkalden / OT Springstille                               2
+98587 Steinbach-Hallenberg                                        11
+98587 Steinbach-Hallenberg / OT Oberschönau                        1
+98587 Steinbach-Hallenberg / OT Viernau                            3
+98590 Schwallungen                                                 4
+98590 Schwallungen / OT Eckardts                                   2
+98590 Schwallungen / OT Zillbach                                   3
+98593 Floh-Seligenthal                                             2
+98593 Floh-Seligenthal / OT Kleinschmalkalden                      1
+98596 Brotterode-Trusetal                                          4
+98596 Brotterode-Trusetal / OT Brotterode                          2
+98597 Breitungen                                                   5
+98597 Fambach                                                      2
+98597 Fambach / OT Heßles                                          1
+98617 Leutersdorf                                                  1
+98617 Meiningen                                                   19
+98617 Meiningen / OT Dreißigacker                                  2
+98617 Meiningen / OT Herpf                                         1
+98617 Meiningen / OT Walldorf                                      1
+98617 Neubrunn                                                     2
+98617 Obermaßfeld-Grimmenthal                                      2
+98617 Rhönblick / OT Helmershausen                                 2
+98617 Rhönblick / OT Wohlmuthausen      1
+98617 Ritschenhausen                    2
+98617 Utendorf                         10
+98631 Grabfeld / OT Jüchsen             3
+98631 Grabfeld / OT Rentwertshausen     2
+98631 Grabfeld / OT Wölfershausen       1
+98631 Grabfeld / OT Wolfmannshausen     1
+98634 Frankenheim/Rhön                  1
+98634 Wasungen                          1
+Gesamtergebnis                        144
+
