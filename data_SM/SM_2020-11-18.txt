@@ -1,0 +1,83 @@
+COVID-19 Tägliches Lagebild                                               x
+
+Stand:                                                   18.11.20 10:00
+
+
+Aspekt                                                                    Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                         40
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                        749
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                    11
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                   8
+
+Verstorbene an COVID19                                                         10
+
+Verstorbene mit COVID19                                                        9
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)          6
+
+Gesamtzahl der Genesenen                                                      590
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                             22
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                         113,7
+
+
+
+Quarantänefälle                                                           Anzahl
+
+aktive positive Fälle                                                         140
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                480
+Infizierte nach
+Gemeinden / Ortsteilen                        aktive positive Fälle
+98530 Dillstädt                                                        2
+98544 Zella-Mehlis                                                    15
+98544 Zella-Mehlis / OT Benshausen                                     3
+98547 Kühndorf                                                         2
+98547 Schwarza                                                         1
+98574 Schmalkalden                                                     5
+98574 Schmalkalden / OT Möckers                                        1
+98574 Schmalkalden / OT Wernshausen                                    1
+98587 Steinbach-Hallenberg                                             2
+98587 Steinbach-Hallenberg / OT Oberschönau                            2
+98587 Steinbach-Hallenberg / OT Rotterode                              1
+98587 Steinbach-Hallenberg / OT Viernau                                1
+98590 Rosa                                                             1
+98590 Roßdorf                                                          1
+98590 Schwallungen                                                     1
+98590 Schwallungen / OT Schwarzbach                                    1
+98590 Schwallungen / OT Zillbach                                       2
+98596 Brotterode-Trusetal                                             10
+98596 Brotterode-Trusetal / OT Trusetal                                3
+98597 Breitungen                                                       2
+98597 Fambach                                                          2
+98617 Belrieth                                                         3
+98617 Einhausen                                                        1
+98617 Ellingshausen                                                    1
+98617 Leutersdorf                                                      1
+98617 Meiningen                                                       20
+98617 Meiningen / OT Walldorf                                          3
+98617 Neubrunn                                                         3
+98617 Obermaßfeld-Grimmenthal                                          1
+98617 Rhönblick / OT Bettenhausen                                      1
+98617 Ritschenhausen                                                   2
+98617 Untermaßfeld                                                     2
+98617 Utendorf                                                         5
+98617 Vachdorf                                                         2
+98631 Grabfeld / OT Bauerbach                                          1
+98631 Grabfeld / OT Berkach                                            2
+98631 Grabfeld / OT Bibra                                              2
+98631 Grabfeld / OT Jüchsen                                           12
+98631 Grabfeld / OT Queienfeld        5
+98631 Grabfeld / OT Wölfershausen     1
+98634 Birx                            1
+98634 Wasungen                       10
+98634 Wasungen / OT Oepfershausen     1
+98634 Wasungen / OT Unterkatz         1
+Gesamtergebnis                      140
+
