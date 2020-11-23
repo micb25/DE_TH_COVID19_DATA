@@ -1,0 +1,120 @@
+Landkreis Schmalkalden-Meiningen
+Sonntag, 22. November 2020
+
+
+COVID-19 (Coronavirus SARS-CoV-2)
+Tägliches Lagebild
+
+Tägliche Lage:
+
+        Bei der gestrigen Lagemeldung (21.11.2020) wurde eine falsche Inzidenzzahl
+         gemeldet: Der korrekte Wert war 144,90 (statt 119,3). Wir bitten diesen Fehler zu
+         entschuldigen!
+
+        Die Ergebnisse des Reihentests in der Senioren-Wohngemeinschaft Am Kirchbrunnen
+         in Meiningen liegen vor. Zusätzlich zu den am 15. November 2020 festgestellten zwei
+         positiven Fällen beim Personal und bei Bewohnern meldet das Gesundheitsamt heute
+         in der betreffenden Wohnebene mehrere Neuinfektionen. Zehn von insgesamt 12
+         Bewohnern sowie drei von insgesamt zehn Mitarbeitern haben sich mit dem
+         Coronavirus angesteckt. Die Kontaktermittlungen sind in vollem Gange.
+
+
+Stand: 22.11.20 10:00 Uhr
+
+
+Aspekt                                                                              Anzahl
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                                41
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                               894
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                           12
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                          13
+
+Verstorbene an COVID19                                                                12
+
+Verstorbene mit COVID19                                                                9
+
+Genesene seit der letzten Lagemeldung (keine Erfassung am Wochenende)                  0
+
+Gesamtzahl der Genesenen                                                             638
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung*                                    0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                                160,1
+
+
+Quarantänefälle                                                                     Anzahl
+
+aktive positive Fälle                                                                235
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                       399
+Anmerkung:
+*Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die durch das Gesundheitsamt
+durchgeführt wurden. Die Anzahl der durch Arztpraxen, Kliniken, etc. durchgeführten Tests liegen nicht
+vor.
+
+Aufschlüsselung der aktiven Fälle nach Gemeinden:
+
+Infizierte nach
+Gemeinden / Ortsteilen                                                           aktive positive Fälle
+98530 Dillstädt                                                                                           1
+98544 Zella-Mehlis                                                                                       24
+98544 Zella-Mehlis / OT Benshausen                                                                        4
+98547 Kühndorf                                                                                            1
+98547 Schwarza                                                                                            1
+98559 Oberhof                                                                                             1
+98574 Schmalkalden                                                                                        8
+98574 Schmalkalden / OT Möckers                                                                           2
+98574 Schmalkalden / OT Wernshausen                                                                       2
+98587 Steinbach-Hallenberg                                                                                8
+98587 Steinbach-Hallenberg / OT Bermbach                                                                  1
+98587 Steinbach-Hallenberg / OT Oberschönau                                                               8
+98587 Steinbach-Hallenberg / OT Rotterode                                                                 2
+98587 Steinbach-Hallenberg / OT Viernau                                                                   1
+98590 Rosa                                                                                                1
+98590 Roßdorf                                                                                             1
+98590 Schwallungen                                                                                        4
+98590 Schwallungen / OT Schwarzbach                                                                       1
+98590 Schwallungen / OT Zillbach                                                                          2
+98593 Floh-Seligenthal                                                                                    1
+98593 Floh-Seligenthal / OT Floh                                                                          1
+98596 Brotterode-Trusetal                                                                                13
+98596 Brotterode-Trusetal / OT Brotterode                                                                 1
+98597 Breitungen                                                                                          7
+98597 Fambach                                                                                             2
+98617 Belrieth                                                                                            3
+98617 Ellingshausen                                                                                       2
+98617 Leutersdorf                                                                                         1
+98617 Meiningen                                                                                          42
+98617 Meiningen / OT Dreißigacker                                                                         3
+98617 Meiningen / OT Walldorf                                                                             4
+98617 Neubrunn                                                                                            3
+98617 Obermaßfeld-Grimmenthal                                                                             3
+98617 Rhönblick / OT Bettenhausen      1
+98617 Rhönblick / OT Helmershausen     1
+98617 Rhönblick / OT Seeba             1
+98617 Rhönblick / OT Stedtlingen       1
+98617 Ritschenhausen                   2
+98617 Sülzfeld                         1
+98617 Untermaßfeld                     2
+98617 Utendorf                         1
+98617 Vachdorf                         3
+98631 Grabfeld                         3
+98631 Grabfeld / OT Jüchsen            1
+98631 Grabfeld / OT Bauerbach          2
+98631 Grabfeld / OT Berkach            1
+98631 Grabfeld / OT Bibra              4
+98631 Grabfeld / OT Jüchsen           19
+98631 Grabfeld / OT Queienfeld         9
+98631 Grabfeld / OT Wölfershausen      2
+98634 Birx                             2
+98634 Frankenheim/Rhön                 2
+98634 Oberweid                         1
+98634 Wasungen                        14
+98634 Wasungen / OT Oepfershausen      1
+98634 Wasungen / OT Unterkatz          1
+98639 Rippershausen / OT Solz          1
+Gesamtergebnis                       235
+
