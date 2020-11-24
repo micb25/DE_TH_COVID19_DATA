@@ -1,0 +1,103 @@
+Landkreis Schmalkalden-Meiningen
+Dienstag, 24. November 2020
+
+COVID-19 (Coronavirus SARS-CoV-2)
+Tägliches Lagebild                                                              x
+
+Stand:                                                   24.11.20 10:00
+
+
+Aspekt                                                                              Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                                26
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                               933
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                           14
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                          14
+
+Verstorbene an COVID19                                                                12
+
+Verstorbene mit COVID19                                                               9
+
+Genesene seit der letzten Lagemeldung (nur teilweise Erfassung am Wochenende)         26
+
+Gesamtzahl der Genesenen                                                             704
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                    29
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                               179,3
+
+
+
+Quarantänefälle                                                                     Anzahl
+
+
+aktive positive Fälle                                                                208
+
+Verdachtsfälle (keine Erfassung am Wochenende)                                       659
+Anmerkung:
+*Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die durch das
+Gesundheitsamt durchgeführt wurden. Die Anzahl der durch Arztpraxen, Kliniken, etc.
+durchgeführten Tests liegen nicht vor.
+
+
+Infizierte nach
+Gemeinden / Ortsteilen                              aktive positive Fälle
+98544 Zella-Mehlis                                                     14
+98544 Zella-Mehlis Quarantäneort: 70191 Stuttgart                       1
+98544 Zella-Mehlis Quarantäneort: 99084 Erfurt                          1
+98544 Zella-Mehlis / OT Benshausen                                      4
+98547 Christes                                                          1
+98547 Kühndorf                                                          1
+98547 Schwarza                                                          1
+98559 Oberhof                                                           3
+98574 Schmalkalden                                                     10
+98574 Schmalkalden / OT Möckers                                         2
+98574 Schmalkalden / OT Wernshausen                                     2
+98587 Steinbach-Hallenberg                                             10
+98587 Steinbach-Hallenberg / OT Bermbach                                1
+98587 Steinbach-Hallenberg / OT Oberschönau                             6
+98587 Steinbach-Hallenberg / OT Rotterode                               2
+98587 Steinbach-Hallenberg / OT Viernau                                 1
+98590 Rosa                                                              1
+98590 Schwallungen                                                      4
+98590 Schwallungen / OT Schwarzbach                                     1
+98590 Schwallungen / OT Zillbach                                        2
+98593 Floh-Seligenthal                                                  1
+98596 Brotterode-Trusetal                                               9
+98597 Breitungen                                                        7
+98597 Fambach                                                           2
+98617 Belrieth                                                          3
+98617 Einhausen                                                         1
+98617 Ellingshausen                                                     2
+98617 Leutersdorf                                                       1
+98617 Meiningen                                                        36
+98617 Meiningen / OT Dreißigacker                                       3
+98617 Meiningen / OT Walldorf                                           4
+98617 Neubrunn                                                          2
+98617 Obermaßfeld-Grimmenthal                                           4
+98617 Rhönblick / OT Bettenhausen                                       3
+98617 Rhönblick / OT Helmershausen     1
+98617 Rhönblick / OT Stedtlingen       1
+98617 Ritschenhausen                   2
+98617 Sülzfeld                         1
+98617 Utendorf                         2
+98617 Vachdorf                         2
+98631 Grabfeld / OT Bauerbach          2
+98631 Grabfeld / OT Berkach            1
+98631 Grabfeld / OT Bibra              2
+98631 Grabfeld / OT Jüchsen           16
+98631 Grabfeld / OT Queienfeld        10
+98631 Grabfeld / OT Wölfershausen      1
+98634 Birx                             2
+98634 Frankenheim/Rhön                 2
+98634 Mehmels                          1
+98634 Oberweid                         5
+98634 Wasungen                         9
+98634 Wasungen / OT Oepfershausen      1
+98634 Wasungen / OT Unterkatz          1
+Gesamtergebnis                       208
+
