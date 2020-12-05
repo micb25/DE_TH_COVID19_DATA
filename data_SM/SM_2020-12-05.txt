@@ -1,0 +1,164 @@
+Landkreis Schmalkalden-Meiningen
+Freitag, 04. Dezember 2020
+COVID-19 (Coronavirus SARS-CoV-2)
+Tägliches Lagebild
+
+Stand:                                                         04.12.20 10:00
+
+
+Aspekt                                                                           Anzahl
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                              51
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                            1302
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                         28
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                        25
+
+Verstorbene an COVID19                                                              16
+
+Verstorbene mit COVID19                                                             12
+
+Genesene seit der letzten Lagemeldung (nur teilweise Erfassung am Wochenende)       27
+
+Gesamtzahl der Genesenen                                                           998
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                  33
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                             192,9
+
+
+
+Quarantänefälle                                                                  Anzahl
+
+aktive positive Fälle                                                              276
+
+Verdachtsfälle (nur teilweise Erfassung am Wochenende)                             778
+
+
+
+
+Anmerkung: *Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die
+durch das Gesundheitsamt durchgeführt wurden. Die Anzahl der durch Arztpraxen,
+Kliniken, etc. durchgeführten Tests liegen nicht vor.
+Infizierte nach
+
+                                                  aktive
+Gemeinden / Ortsteilen                            positive Fälle
+
+36452 Kaltennordheim                                           4
+
+36452 Kaltennordheim / OT Fischbach                            1
+
+36452 Kaltennordheim / OT Klings                               1
+
+36452 Kaltennordheim / OT Unterweid                            2
+
+98530 Dillstädt                                                2
+
+98544 Zella-Mehlis                                            16
+
+98544 Zella-Mehlis (Quarantäneort: 98527 Suhl)                 1
+
+98544 Zella-Mehlis / OT Benshausen                             9
+
+98547 Christes                                                 1
+
+98547 Kühndorf                                                 2
+
+98547 Schwarza                                                 5
+
+98574 Schmalkalden                                            11
+
+98574 Schmalkalden / OT Asbach                                 1
+
+98574 Schmalkalden / OT Mittelschmalkalden                     1
+
+98574 Schmalkalden / OT Möckers                                3
+
+98574 Schmalkalden / OT Wernshausen                            5
+
+98587 Steinbach-Hallenberg                                    17
+
+98587 Steinbach-Hallenberg / OT Rotterode                      5
+
+98587 Steinbach-Hallenberg / OT Unterschönau                   1
+
+98587 Steinbach-Hallenberg / OT Viernau                        3
+
+98587 Steinbach-Hallenberg Quarantäneort: 98667
+Schleusingen                                                   1
+
+98590 Rosa / OT Georgenzell                                    1
+
+98590 Schwallungen                                             3
+
+98590 Schwallungen / OT Zillbach                               1
+
+98593 Floh-Seligenthal                                         5
+98593 Floh-Seligenthal / OT Kleinschmalkalden      2
+
+98593 Floh-Seligenthal / OT Struth-Helmershof      4
+
+98596 Brotterode-Trusetal                         11
+
+98596 Brotterode-Trusetal / OT Brotterode          2
+
+98596 Brotterode-Trusetal / OT Wahles              5
+
+98597 Breitungen                                   6
+
+98597 Fambach                                      6
+
+98597 Fambach / OT Heßles                          1
+
+98617 Einhausen                                    1
+
+98617 Meiningen                                   62
+
+98617 Meiningen / OT Dreißigacker                  2
+
+98617 Meiningen / OT Dreißigacker (Qu.: Coburg)    1
+
+98617 Meiningen / OT Walldorf                      6
+
+98617 Neubrunn                                     3
+
+98617 Obermaßfeld-Grimmenthal                      2
+
+98617 Rhönblick / OT Bettenhausen                  2
+
+98617 Rhönblick / OT Helmershausen                 1
+
+98617 Rhönblick / OT Seeba                         2
+
+98617 Ritschenhausen                               3
+
+98617 Vachdorf                                     1
+
+98631 Grabfeld / OT Behrungen                      2
+
+98631 Grabfeld / OT Bibra                          1
+
+98631 Grabfeld / OT Exdorf                         1
+
+98631 Grabfeld / OT Jüchsen                       19
+
+98631 Grabfeld / OT Queienfeld                     5
+
+98631 Grabfeld / OT Wölfershausen                  2
+
+98634 Frankenheim                                  1
+
+98634 Oberweid                                     2
+98634 Wasungen                       14
+
+98634 Wasungen / OT Oepfershausen     2
+
+98634 Wasungen / OT Wahns             1
+
+98639 Rippershausen / OT Melkers      1
+
+Gesamtergebnis                      276
+
