@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="de-DE" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="#5891e8"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	        <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>Corona &#8211; unser.gera.de</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="unser.gera.de &raquo; Feed" href="https://unser.gera.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="unser.gera.de &raquo; Kommentar-Feed" href="https://unser.gera.de/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="unser.gera.de &raquo; iCal Feed" href="https://unser.gera.de/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/unser.gera.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+			<style type="text/css">
+		</style>
+		<link rel='stylesheet' id='tribe-common-skeleton-style-css'  href='https://unser.gera.de/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.12.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tribe-tooltip-css'  href='https://unser.gera.de/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.12.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://unser.gera.de/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://unser.gera.de/wp-includes/css/dist/block-library/theme.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='https://unser.gera.de/wp-content/plugins/bbpress/templates/default/css/bbpress.min.css?ver=2.6.6' type='text/css' media='all' />
+<link rel='stylesheet' id='bigbluebutton-css'  href='https://unser.gera.de/wp-content/plugins/bigbluebutton/public/css/bigbluebutton-public.css?ver=3.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://unser.gera.de/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dnd-upload-cf7-css'  href='https://unser.gera.de/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css?ver=1.3.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://unser.gera.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://unser.gera.de/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://unser.gera.de/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fts-feeds-css'  href='https://unser.gera.de/wp-content/plugins/feed-them-social/feeds/css/styles.css?ver=2.9.0' type='text/css' media='' />
+<link rel='stylesheet' id='image-hover-effects-css-css'  href='https://unser.gera.de/wp-content/plugins/mega-addons-for-visual-composer/css/ihover.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css-css'  href='https://unser.gera.de/wp-content/plugins/mega-addons-for-visual-composer/css/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-latest-css'  href='https://unser.gera.de/wp-content/plugins/mega-addons-for-visual-composer/css/font-awesome/css/all.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='moderation-tools-bbpress-css'  href='https://unser.gera.de/wp-content/plugins/moderation-tools-for-bbpress/css/front.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rate-my-post-css'  href='https://unser.gera.de/wp-content/plugins/rate-my-post/public/css/rate-my-post.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://unser.gera.de/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.23' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='theme-my-login-css'  href='https://unser.gera.de/wp-content/plugins/theme-my-login/assets/styles/theme-my-login.min.css?ver=7.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpmi-icons-css'  href='https://unser.gera.de/wp-content/plugins/wp-menu-icons/assets/css/wpmi.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='bsp-css'  href='https://unser.gera.de/wp-content/plugins/bbp-style-pack/css/bspstyle.css?ver=4.7.0' type='text/css' media='screen' />
+<link rel='stylesheet' id='bbpress-wp-tweaks-css'  href='https://unser.gera.de/wp-content/plugins/bbpress-wp-tweaks/style.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='//unser.gera.de/wp-content/uploads/js_composer/js_composer_front_custom.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css'  href='//unser.gera.de/wp-content/uploads/js_composer/custom.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='all-in-one-video-gallery-backward-compatibility-css'  href='https://unser.gera.de/wp-content/plugins/all-in-one-video-gallery/public/assets/css/backward-compatibility.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='all-in-one-video-gallery-public-css'  href='https://unser.gera.de/wp-content/plugins/all-in-one-video-gallery/public/assets/css/public.css?ver=2.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='https://unser.gera.de/wp-content/themes/dt-the7/css/main.min.css?ver=9.5.0' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #343434;
+}
+.uil-default rect:not(.bk) {
+  fill: rgba(51,51,51,0.25);
+}
+.uil-ring > path {
+  fill: rgba(51,51,51,0.25);
+}
+.ring-loader .circle {
+  fill: rgba(51,51,51,0.25);
+}
+.ring-loader .moving-circle {
+  fill: #333333;
+}
+.uil-hourglass .glass {
+  stroke: #333333;
+}
+.uil-hourglass .sand {
+  fill: rgba(51,51,51,0.25);
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.25%29' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.25%29'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.25%29'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='the7-font-css'  href='https://unser.gera.de/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=9.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-core-css'  href='https://unser.gera.de/wp-content/plugins/dt-the7-core/assets/css/post-type.min.css?ver=2.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css'  href='https://unser.gera.de/wp-content/plugins/cf7-conditional-fields/style.css?ver=1.9.14' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/custom.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/media.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-mega-menu-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/mega-menu.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-albums-portfolio-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/the7-elements-albums-portfolio.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='bb-press.less-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/compatibility/bb-press.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-css'  href='https://unser.gera.de/wp-content/uploads/the7-css/post-type-dynamic.css?ver=8b2e874382ed' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://unser.gera.de/wp-content/themes/dt-the7/style.css?ver=9.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-style-css'  href='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.19.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-headings-style-css'  href='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/headings.min.css?ver=3.19.7' type='text/css' media='all' />
+<link rel='stylesheet' id='timed-content-css-css'  href='https://unser.gera.de/wp-content/plugins/timed-content/css/timed-content.css?ver=2.65' type='text/css' media='all' />
+<script type='text/javascript' src='https://unser.gera.de/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='bigbluebutton-js-extra'>
+/* <![CDATA[ */
+var php_vars = {"expand_recordings":"Expand recordings","collapse_recordings":"Collapse recordings","edit":"Bearbeiten","published":"Ver\u00f6ffentlicht","unpublished":"Unpublished","protected":"Gesch\u00fctzt","unprotected":"Unprotected","ajax_url":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/bigbluebutton/public/js/bigbluebutton-public.js?ver=3.0.0' id='bigbluebutton-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#2088d8","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#343434","button_1_button_hover":"#2a2a2a","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#62a329","button_4_as_button":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#ffffff","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.9.4' id='cookie-law-info-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/feed-them-social/feeds/js/powered-by.js?ver=2.9.0' id='fts_powered_by_js-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/feed-them-social/feeds/js/fts-global.js?ver=2.9.0' id='fts-global-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.2.23' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.23' id='revmin-js'></script>
+<script type='text/javascript' id='dt-above-fold-js-extra'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/unser.gera.de\/wp-content\/themes\/dt-the7","passText":"Um diesen gesch\u00fctzten Eintrag anzusehen, geben Sie bitte das Passwort ein:","moreButtonText":{"loading":"Lade...","loadMore":"Mehr laden"},"postID":"58280","ajaxurl":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/unser.gera.de\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"ae682f3cc1","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"solid","color":"#5891e8"},"desktopHeader":{"height":120},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":94,"showMenu":true,"height":80,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png\" srcset=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png 75w, https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/03\/608px-Wappen_Gera.svg_-e1586155695937.png 50w\" width=\"75\" height=\"74\"   sizes=\"75px\" alt=\"unser.gera.de\" \/>","url":"https:\/\/unser.gera.de\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":992,"secondSwitchPoint":778,"firstSwitchPointHeight":60,"secondSwitchPointHeight":60,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png\" srcset=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png 75w, https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/03\/608px-Wappen_Gera.svg_-e1586155695937.png 50w\" width=\"75\" height=\"74\"   sizes=\"75px\" alt=\"unser.gera.de\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png\" srcset=\"https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/04\/608px-Wappen_Gera.svg_-e1586155735601.png 75w, https:\/\/unser.gera.de\/wp-content\/uploads\/2020\/03\/608px-Wappen_Gera.svg_-e1586155695937.png 50w\" width=\"75\" height=\"74\"   sizes=\"75px\" alt=\"unser.gera.de\" \/>"}},"content":{"textColor":"#efefef","headerColor":"#efefef"},"sidebar":{"switchPoint":50},"boxedWidth":"1280px","stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"950"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=9.5.0' id='dt-above-fold-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.7' id='ultimate-vc-params-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/headings.min.js?ver=3.19.7' id='ultimate-headings-script-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/timed-content/js/timed-content.js?ver=2.65' id='timed-content_js-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://unser.gera.de/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://unser.gera.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<link rel="canonical" href="https://unser.gera.de/corona/" />
+<link rel='shortlink' href='https://unser.gera.de/?p=58280' />
+<link rel="alternate" type="application/json+oembed" href="https://unser.gera.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funser.gera.de%2Fcorona%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://unser.gera.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funser.gera.de%2Fcorona%2F&#038;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://unser.gera.de"><link rel="https://theeventscalendar.com/" href="https://unser.gera.de/wp-json/tribe/events/v1/" /><!-- Analytics by WP-Statistics v13.0.4 - https://wp-statistics.com/ -->
+<meta property="og:site_name" content="unser.gera.de" />
+<meta property="og:title" content="Corona" />
+<meta property="og:url" content="https://unser.gera.de/corona/" />
+<meta property="og:type" content="article" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="https://unser.gera.de/wp-content/uploads/2020/03/cropped-608px-Wappen_Gera.svg_-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://unser.gera.de/wp-content/uploads/2020/03/cropped-608px-Wappen_Gera.svg_-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://unser.gera.de/wp-content/uploads/2020/03/cropped-608px-Wappen_Gera.svg_-180x180.png" />
+<meta name="msapplication-TileImage" content="https://unser.gera.de/wp-content/uploads/2020/03/cropped-608px-Wappen_Gera.svg_-270x270.png" />
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.owntable table{
+border: 1px solid black;
+}		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1607006517434{padding-top: 15px !important;padding-bottom: 15px !important;}.vc_custom_1587114532897{padding-top: 5px !important;}.vc_custom_1606821108591{padding-top: 5px !important;}.vc_custom_1587114634894{padding-top: 5px !important;}.vc_custom_1606820641418{padding-top: 5px !important;}.vc_custom_1606820405576{padding-top: 5px !important;}.vc_custom_1606820308268{padding-top: 5px !important;}.vc_custom_1607345480338{padding-top: 5px !important;}.vc_custom_1606820755423{padding-top: 5px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id='the7-custom-inline-css' type='text/css'>
+.tribe-common a {
+	color:#efefef;
+	
+}
+
+/*Fancy Box PopUp über Organigram deaktivieren */
+.fancybox-container * {
+    box-sizing: border-box;
+    display: none;
+}
+
+.sub-nav .menu-item i.fa,
+.sub-nav .menu-item i.fas,
+.sub-nav .menu-item i.far,
+.sub-nav .menu-item i.fab {
+	text-align: center;
+	width: 1.25em;
+}
+/* Styling für den Kalender start */
+/* Einzelner Eintrag */
+.tribe-common a, .tribe-common a:active, .tribe-common a:focus, .tribe-common a:hover, .tribe-common a:visited {
+	color: #efefef;
+font-size: medium;
+}
+
+tribe-events .tribe-events-calendar-month__calendar-event-datetime > * {
+    vertical-align: middle;
+	font-size: small;
+    color: white;
+}
+
+.tribe-events .tribe-events-header {
+    background-color: #343434;
+	color: white;
+}
+
+.tribe-events .tribe-events-c-events-bar {
+	    background-color: #343434;
+			color: white;
+}
+
+.tribe-common--breakpoint-full.tribe-events .tribe-events-c-top-bar__datepicker-desktop {
+		color: white;
+}
+
+.tribe-events .tribe-events-calendar-month__day--past .tribe-events-calendar-month__day-date, .tribe-events .tribe-events-calendar-month__day-date-link, .tribe-common a:hover, .tribe-common a:visited {	
+	color: white;
+	
+}
+
+.tribe-events .tribe-events-c-ical__link {
+    align-items: center;
+    color: white;
+    border: 1px solid white; 
+}
+
+.tribe-common .tribe-common-b2 {
+	color: #fdfdfd;}
+
+.tribe-common .tribe-common-h7, .tribe-common .tribe-common-h8,
+.tribe-common .tribe-common-h5, .tribe-common .tribe-common-h6,
+.tribe-events .tribe-events-calendar-list__event-date-tag-weekday
+{	color: white;}
+
+.tribe-common--breakpoint-medium.tribe-common .tribe-common-c-btn-border, .tribe-common--breakpoint-medium.tribe-common a.tribe-common-c-btn-border {
+    color: black;
+	background-color: gray;}
+
+.tribe-common .tribe-common-a11y-hidden {
+    color: white;
+}
+.single-tribe_events .tribe-events-event-meta {
+	background-color: #343434;}
+
+/* Styling für den Kalender ende */
+
+/* Styling fürs Forum start 
+
+#bbpress-forums fieldset.bbp-form input[type="text"], #bbpress-forums fieldset.bbp-form select {
+	background-color: #343434;
+	border-color: white
+}
+
+#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content {
+	background-color: #343434;
+	border-color: white}
+
+div.bbp-template-notice.info {
+	background-color: #343434;
+	color: white
+}
+#bbpress-forums div.bbp-forum-content, #bbpress-forums div.bbp-reply-content, #bbpress-forums div.bbp-topic-content {
+    background-color: #e6e6e6;
+	color: white
+}
+
+input[type="text"], .widget_search input[type="text"].searchform-s, input[type="search"], input[type="tel"], input[type="url"], input[type="email"], input[type="number"], input[type="date"], input[type="range"], input[type="password"], select, .wpcf7-number, .tinvwl-input-group .form-control {
+    height: 40px;
+	background-color: #343434;}
+*/
+.ultv-video__outer-wrap {
+	background: #343434;}
+
+.single .post-thumbnail img {display:none;}
+
+#bbpress-forums div.odd, #bbpress-forums ul.odd {
+	background-color: #343434
+;}
+
+#bbpress-forums div.even, #bbpress-forums ul.even {
+    background-color: #343434;
+}
+
+div.bbp-template-notice, div.indicator-hint {
+    background-color: #343434;
+	border-color: #343434;}
+
+/*Pause im Videoplayer */
+.mejs-controls .mejs-pause button, .mejs-controls .mejs-pause:hover button {
+    background-position: -20px 0;
+}
+
+/*Listitems punkt */
+.standard-number-list li::before, .standard-arrow li::before {
+    color: #000;
+	background-color: #a8a8a8;}
+
+/* Linkfarbe */
+a, a:hover {
+    color: #3ebde8;
+}
+
+/* Ideenformular */
+.content input[type="text"],
+.content select,
+.content input[type="email"]
+{
+	background-color: white
+}
+
+/*Tabellen Pilotprojekte*/
+.divTable{
+	display: table;
+	width: 100%;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	display: table-cell;
+	padding: 10px 20px;
+}
+.divTableCell1 {
+	display: table-cell;
+	padding: 10px 0;
+  text-align: center;
+	vertical-align: middle;
+	border-bottom: 1px solid #ddd;
+	font-size: large;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
+
+/*Kommentarfeld */
+.content textarea {
+    font-size: 15px;
+    line-height: 27px;
+	background-color: #e6e6e6;
+	color: black;
+}
+
+/*Kontakformular */
+.content input[type="text"], .content select, .content input[type="email"] {
+    background-color: #e6e6e6;
+	color: black;
+}
+/*totalcontest*/
+
+.totalcontest-form-field {
+	color: white;
+}
+
+/*popup Startseite */
+.ult_modal {
+    right: 5%;
+	top: 25%;
+	position: absolute;
+}
+
+/* 2 Column Form Styles Start */
+
+#left {
+    width: 47%;
+    float: left;
+    margin-right:6%;
+}
+ 
+#right {
+    width: 47%;
+    float: left;
+}
+ 
+.clearfix:after {
+    content:"\0020";
+    display:block;
+    height:0;
+    clear:both;
+    visibility:hidden;
+    overflow:hidden;
+    margin-bottom:10px;
+}
+ 
+.clearfix {
+    display:block;
+}
+
+/* 2 Column Form Styles Ende */
+
+.codedropz-upload-inner h3 {
+    margin: 5px 0;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+/* Logo Timeline */
+.fa-map-marker {
+	font-size: 45px;
+}
+
+div.bbp-template-notice li, div.bbp-template-notice p {
+    color: white;
+	  background-color: black;
+}
+
+div.bbp-template-notice li, div.bbp-template-notice p {
+    background-color: #343434;
+}
+
+div.bbp-template-notice.info {
+    background-color: #343434;
+}
+
+form.bbp-login-form {
+    padding: 5px;
+}
+/*
+.wpb_text_column :last-child{
+    padding: 5px;
+}*/
+</style>
+</head>
+<body class="page-template-default page page-id-58280 page-parent wp-embed-responsive the7-core-ver-2.5.4 tribe-no-js title-off dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon srcset-enabled btn-flat custom-btn-color custom-btn-hover-color shadow-element-decoration phantom-sticky phantom-shadow-decoration phantom-main-logo-on sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-9.5.0 wpb-js-composer js-comp-ver-6.4.2 vc_responsive">
+<!-- The7 9.5.0 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page" >
+	<a class="skip-link screen-reader-text" href="#content">Zum Inhalt springen</a>
+
+<div class="masthead inline-header center full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon dt-parent-menu-clickable show-sub-menu-on-hover"  role="banner">
+
+	<div class="top-bar full-width-line top-bar-empty top-bar-line-hide">
+	<div class="top-bar-bg" ></div>
+	<div class="mini-widgets left-widgets"></div><div class="mini-widgets right-widgets"></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">unser.gera.de</div>
+	<div id="site-description" class="assistive-text">Unser Gera</div>
+	<a class="same-logo" href="https://unser.gera.de/"><img class=" preload-me" src="https://unser.gera.de/wp-content/uploads/2020/04/608px-Wappen_Gera.svg_-e1586155735601.png" srcset="https://unser.gera.de/wp-content/uploads/2020/04/608px-Wappen_Gera.svg_-e1586155735601.png 75w, https://unser.gera.de/wp-content/uploads/2020/03/608px-Wappen_Gera.svg_-e1586155695937.png 50w" width="75" height="74"   sizes="75px" alt="unser.gera.de" /></a></div>
+
+		<ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin" role="menubar"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-58539 first" role="presentation"><a href='https://unser.gera.de' target='_blank' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Unser Gera</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-58280 current_page_item menu-item-58540 act" role="presentation"><a href='https://unser.gera.de/corona/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Corona</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58671 has-children" role="presentation"><a href='https://unser.gera.de/corona/aktuelles/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Aktuelles</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58543 first" role="presentation"><a href='https://unser.gera.de/corona/statusberichte-des-oberbuergermeisters/' data-level='2' role="menuitem"><span class="menu-item-text"><span class="menu-text">Statusberichte des Oberbürgermeisters</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59204" role="presentation"><a href='https://unser.gera.de/corona/spenderliste/' data-level='2' role="menuitem"><span class="menu-item-text"><span class="menu-text">Spenderliste</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58667" role="presentation"><a href='https://unser.gera.de/corona/wichtige-rufnummern/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Ansprechpartner</span></span></a></li> </ul>
+		
+	</header>
+
+</div>
+<div class="dt-mobile-header mobile-menu-show-divider">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav" role="menubar">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-58539 first" role="presentation"><a href='https://unser.gera.de' target='_blank' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Unser Gera</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-58280 current_page_item menu-item-58540 act" role="presentation"><a href='https://unser.gera.de/corona/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Corona</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58671 has-children" role="presentation"><a href='https://unser.gera.de/corona/aktuelles/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Aktuelles</span></span></a><ul class="sub-nav hover-style-bg level-arrows-on" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58543 first" role="presentation"><a href='https://unser.gera.de/corona/statusberichte-des-oberbuergermeisters/' data-level='2' role="menuitem"><span class="menu-item-text"><span class="menu-text">Statusberichte des Oberbürgermeisters</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59204" role="presentation"><a href='https://unser.gera.de/corona/spenderliste/' data-level='2' role="menuitem"><span class="menu-item-text"><span class="menu-text">Spenderliste</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58667" role="presentation"><a href='https://unser.gera.de/corona/wichtige-rufnummern/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">Ansprechpartner</span></span></a></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+
+	<div id="content" class="content" role="main">
+
+		<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-60015fd135d5531b2" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-60015fd135d5531b2 uvc-1017  uvc-heading-default-font-sizes" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-60015fd135d5531b2 h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="--font-weight:theme;">Corona</h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-60015fd135d5531b2 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"","line-height":""}'  style="font-weight:normal;">Infoseite der Stadt Gera zum Thema Corona</div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_border_width_3 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_sky" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-no-padding vc_row-o-content-bottom vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1607006517434" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;" align="center"><span style="color: maroon;">Die aktuellen Infektionszahlen finden Sie ab sofort auf </span><span style="color: maroon;">den Seiten des Robert Koch Instituts und des Thüringer Ministeriums*:</span></h4>
+<p style="text-align: center;" align="center"><a href="https://corona.rki.de"><span style="color: maroon;">https://corona.rki.de</span></a></p>
+<p align="center"><a href="https://www.tmasgff.de/covid-19/fallzahlen"><span style="color: #800000;">https://www.tmasgff.de/covid-19/fallzahlen</span></a></p>
+<p style="text-align: center;" align="center">* Aufgrund von Differenzen in der täglichen Aktualisierung der Zahlen der unterschiedlichen Kanäle und Zeitpunkte wird ab sofort auf die offiziellen Seiten des Bundes und des Ministeriums für für Arbeit, Soziales, Gesundheit, Frauen und Familie verwiesen.</p>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><!-- Row Backgrounds --><div class="upb_color" data-bg-override="0" data-bg-color="#999999" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="6.4.2"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""    ></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div id="ultimate-heading-82055fd135d5539d2" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-82055fd135d5539d2 uvc-9819  uvc-heading-default-font-sizes" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-82055fd135d5539d2 h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="--font-weight:theme;">#WirschützenGera</h2></div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><style type="text/css" data-type="the7_shortcodes-inline-css">.shortcode-single-image-wrap.shortcode-single-image-f4e46751c5abd0c3431e585c68cb084d.enable-bg-rollover .rollover i,
+.shortcode-single-image-wrap.shortcode-single-image-f4e46751c5abd0c3431e585c68cb084d.enable-bg-rollover .rollover-video i {
+  background: -webkit-linear-gradient();
+  background: linear-gradient();
+}
+.shortcode-single-image-wrap.shortcode-single-image-f4e46751c5abd0c3431e585c68cb084d .rollover-icon {
+  font-size: 32px;
+  color: #ffffff;
+  min-width: 44px;
+  min-height: 44px;
+  line-height: 44px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 0px;
+}
+.dt-icon-bg-on.shortcode-single-image-wrap.shortcode-single-image-f4e46751c5abd0c3431e585c68cb084d .rollover-icon {
+  background: rgba(255,255,255,0.3);
+  box-shadow: none;
+}
+</style><div class="shortcode-single-image-wrap shortcode-single-image-f4e46751c5abd0c3431e585c68cb084d alignnone  enable-bg-rollover dt-icon-bg-off" style="margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; width:500px;"><div class="shortcode-single-image"><div class="fancy-media-wrap" style=""><a href="https://unser.gera.de/corona/aktuelles/" class=" layzr-bg rollover" style="" aria-label="Image"><img class="preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%20500%20500&#39;%2F%3E" data-src="https://unser.gera.de/wp-content/uploads/2020/11/wirschuetzen__Gera_v4-2_FINAL_Mathias-DJ-und-Produzent-500x500.jpg" data-srcset="https://unser.gera.de/wp-content/uploads/2020/11/wirschuetzen__Gera_v4-2_FINAL_Mathias-DJ-und-Produzent-500x500.jpg 500w, https://unser.gera.de/wp-content/uploads/2020/11/wirschuetzen__Gera_v4-2_FINAL_Mathias-DJ-und-Produzent-1000x1000.jpg 1000w" width="500" height="500"  data-dt-location="https://unser.gera.de/dt_gallery/wir-schuetzen-gera/wirschuetzen__gera_v4-2_final_mathias-dj-und-produzent/" alt="" /></a></div></div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div id="ultimate-heading-19735fd135d553df2" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-19735fd135d553df2 uvc-448  uvc-heading-default-font-sizes" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-19735fd135d553df2 h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="--font-weight:theme;">Neue Allgemeinverfügung der Stadt Gera ab 4. Dezember</h2></div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div  class="vc_toggle vc_toggle_default vc_toggle_color_default  vc_toggle_size_md"><div class="vc_toggle_title"><h4>Tagsüber nun Maskenpflicht für Heinrichstraße / Zentrale Umsteigestelle und Markt...weiterlesen</h4><i class="vc_toggle_icon"></i></div><div class="vc_toggle_content"><div id="page" class="closed-mobile-header">
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+<div class="wf-wrap">
+<div class="wf-container-main">
+<div id="content" class="content" role="main">
+<div class="vc_row wpb_row vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-12">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>Ab Freitag, dem 4. Dezember 2020, tritt in Gera eine neue „Allge­mein­verfügung zum Vollzug des Gesetzes</p>
+<p><a href="https://unser.gera.de/wp-content/uploads/2020/12/Karte-Bereich-Heinrichstrasse-Zentrale-Umsteigestelle-Mittel.jpg"><img loading="lazy" class="alignleft wp-image-92789 size-thumbnail" src="https://unser.gera.de/wp-content/uploads/2020/12/Karte-Bereich-Heinrichstrasse-Zentrale-Umsteigestelle-Mittel-150x150.jpg" alt="" width="150" height="150" /></a><a href="https://unser.gera.de/wp-content/uploads/2020/12/Karte-Bereich-Markt-Mittel.jpg"><img loading="lazy" class="wp-image-92788 size-thumbnail alignright" src="https://unser.gera.de/wp-content/uploads/2020/12/Karte-Bereich-Markt-Mittel-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen“ in Kraft. Diese regelt Verhaltens­weisen zum Schutz der Bevölkerung entsprechend der aktuellen</p>
+<p>Lage, wobei die bundes- und thüringenweiten Regelungen ihre Geltung behalten.</p>
+<p>Insbesondere betrifft dies die Pflicht zum Tragen einer Mund-Nasen-Bedeckung bei Betreten und Aufenthalt in den Bereichen Zentrale Umsteigestelle/Heinrichstraße sowie den Markt der Stadt Gera in der Zeit von 7 bis 21 Uhr. Beide Bereiche sind durch Hinweisschilder vor Ort gekennzeichnet.</p>
+<p>Darüber hinaus enthalten sind branchenspezifische Hinweise zum Hygieneschutzkonzept. Ein weiterer Paragraph verweist darauf, dass alle Quarantänevorschriften bereits ab mündlicher, fernmündlicher oder elektronisch übermittelter Anordnung von Quarantäne/Absonderung gelten, auch wenn noch keine schriftliche Benachrichtigung durch das Gesundheitsamt der Stadt Gera erfolgt ist.</p>
+<p>Mit der Allgemeinverfügung reagiert die Stadtverwaltung auf die hohen Corona-Infektionszahlen in Gera und kommt zugleich der Aufforderung nach erhöhten Schutzmaßnahmen nach, wie sie in der bereits seit 1. Dezember geltenden „Zweite(n) Thüringer SARS-CoV-2-Sondereindämmungsmaßnahmenverordnung“ festgeschrieben sind.</p>
+<p>Die Allgemeinverfügung gilt zunächst bis einschließlich 20. Dezember 2020.</p>
+<p>Oberbürgermeister Julian Vonarb appelliert an alle Bürgerinnen und Bürger: „Schwierige Wochen stehen uns bevor. Die Zahl der Menschen, die sich täglich neu mit dem Corona-Virus infizieren ist leider auch in unserer Stadt zu hoch. Das Gesundheitsamt arbeitet unter größten Anstrengungen, um Kontakte nachzuverfolgen und Infektionsketten zu unterbrechen. Die Ausweitung der Maskenpflicht ist eine Maßnahme, die dabei helfen kann, Ansteckungen zu vermeiden. Ich bitte Sie um Ihre Unterstützung. Wir müssen die Ausbreitung des Virus´ in unserer Stadt eindämmen. Beachten Sie die AHA-L-Regeln (Abstand, Hygiene, Alltagsmaske, Lüften) und reduzieren Sie Ihre Kontakte. Nur gemeinsam werden wir es schaffen, eine Überlastung von Ärzten, Kliniken, Pflegepersonal und Rettungsdiensten zu verhindern und das öffentliche Leben, wenn auch unter Einschränkungen, gut zu gestalten.“</p>
+<p>Die Allgemeinverfügung wird in einem Sonderamtsblatt veröffentlicht und ist zudem <a href="https://unser.gera.de/wp-content/uploads/2020/12/20201203_AV_Gera_unterschrieben.pdf">hier</a> nachzulesen</p>
+<p>&nbsp;</p>
+<p><strong>Bereits seit 30. November gilt in Thüringen eine  neue <a href="https://unser.gera.de/wp-content/uploads/2020/11/2020-11-29_CoronaVO.pdf">Sonder-Verordnung</a></strong></p>
+<p><strong>Diese beinhaltet:</strong></p>
+<p><strong><em>Weitergehende Kontaktbeschränkungen</em></strong></p>
+<p>Private Zusammenkünfte mit Freunden, Verwandten und Bekannten sind auf den eigenen und einen weiteren Haushalt, jedoch in jedem Falle auf maximal fünf Personen zu beschränken. Kinder bis 14 Jahre sind hiervon ausgenommen.</p>
+<p>&nbsp;</p>
+<p><strong><em>Erweiterung der Maskenpflicht</em></strong></p>
+<p>Die Maskenpflicht wird auf die folgenden Bereiche erweitert:</p>
+<ul>
+<li>in allen geschlossenen Räumen, die öffentlich zugänglich sind oder bei denen Besuchs- und Kundenverkehr (Publikumsverkehr) besteht</li>
+<li>an allen Orten mit Publikumsverkehr in Innenstädten und in der Öffentlichkeit unter freiem Himmel, an denen sich Personen auf engem Raum oder nicht nur vorübergehend aufhalten (Die konkreten Orte werden von den Kreisen und kreisfreien Städten festgelegt.)</li>
+<li>vor Einzelhandelsgeschäften und Parkplätzen</li>
+<li>in Arbeits- und Betriebsstätten mit Ausnahme des Arbeitsplatzes, sofern ein Mindestabstand von 1,5 Meter sicher eingehalten werden kann.</li>
+</ul>
+<p><strong><em>Beschränkungen im Groß- und Einzelhandel ab 800 Quadratmeter</em></strong></p>
+<p>Generell gilt, dass sich in einer Einrichtung mit einer Verkaufsfläche von bis zu 800 Quadratmeter insgesamt höchstens ein Kunde pro zehn Quadratmeter Verkaufsfläche aufhalten darf.</p>
+<p>Für Einrichtungen mit mehr als 800 Quadratmeter gilt für die Verkaufsfläche ab 801 m<sup>2</sup> eine Obergrenze von einem Kunden pro 20 m<sup>2</sup>.</p>
+<p>Für Einkaufszentren ist die jeweilige Gesamtverkaufsfläche anzusetzen.</p>
+<p>&nbsp;</p>
+<p><strong>Noch keine abschließende Entscheidung über Sonderregelungen für die Weihnachtstage und Silvester</strong></p>
+<p>Da die Sonderverordnung zunächst bis zum 20. Dezember befristet ist, wurde noch keine endgültige Entscheidung zur Regelungen für die Weihnachtstage und Silvester getroffen.</p>
+<p>Die weitere Entwicklung des Infektionsgeschehens muss abgewartet werden. Es ist jedoch das Ziel der Landesregierung für die Tage vom 23. Dezember 2020 bis längstens 1. Januar 2021 Regelungen zu erlassen, wie sie der Beschluss der Ministerpräsidentinnen und -präsidenten und der Bundeskanzlerin vom 25. November vorsieht: Treffen im engsten Familien- oder Freundeskreis sollen bis maximal zehn Personen möglich sein. Dazugehörige Kinder bis 14 Jahre sollen hiervon ausgenommen.</p>
+<p>&nbsp;</p>
+<p><strong>Weitere Anpassungen </strong></p>
+<p>Auch die Thüringer Grundverordnung wurde entsprechend dem Bund-Länder-Beschluss um ein Instrument für zusätzliche Maßnahmen bei besonders extremen Infektionslagen ergänzt. Neben den „Eindämmungsstufen“ 35 Neuinfektionen und 50 Neuinfektionen innerhalb von sieben Tagen je 100.000 Einwohnern, sind beim Überschreiten von 100 bzw. 200 Neuinfektionen (innerhalb von sieben Tagen je 100.000 Einwohnern) durch die zuständige kommunale Behörde nun noch striktere Maßnahmen zur Absenkung des Infektionsgeschehens zu ergreifen.</p>
+<p>Welche Maßnahmen von den zuständigen Behörden vor Ort konkret zu ergreifen sind, wird über einen zusätzlichen Erlass geregelt, der in den nächsten Tagen veröffentlicht wird.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_border_width_3 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_sky" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/aktuelles/" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey layzr-bg rollover" data-large_image_width="1024" data-large_image_height = "536"     ><img width="150" height="150" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 150 150'%2F%3E" data-src="https://unser.gera.de/wp-content/uploads/2020/04/virus-4835301_1920-150x150.jpg" class="lazy-load vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/virus-4835301_1920/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1587114532897" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Aktuelles</h4>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/quarantaene" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="1024" data-large_image_height = "682"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2020/12/coronavirus-4947340_1280-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/coronavirus-4947340_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1606821108591" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Quarantäne</h4>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/wichtige-rufnummern/" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="1024" data-large_image_height = "683"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2016/10/24-10-17-51-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy" srcset="https://unser.gera.de/wp-content/uploads/2016/10/24-10-17-51-150x150.jpg 150w, https://unser.gera.de/wp-content/uploads/2016/10/24-10-17-51-300x300.jpg 300w, https://unser.gera.de/wp-content/uploads/2016/10/24-10-17-51-200x200.jpg 200w" sizes="(max-width: 150px) 100vw, 150px"  data-dt-location="https://unser.gera.de/24-10-17-51/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1587114634894" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Ansprechpartner</h4>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/schulenkitas/" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="1024" data-large_image_height = "682"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2020/12/kids-1093758_1280-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/kids-1093758_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1606820641418" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Schulen und Kindertagesstätten</h4>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/tests/" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey layzr-bg rollover" data-large_image_width="1024" data-large_image_height = "723"     ><img width="150" height="150" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 150 150'%2F%3E" data-src="https://unser.gera.de/wp-content/uploads/2020/12/mask-4964590_1280-150x150.png" class="lazy-load vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/mask-4964590_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1606820405576" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Test auf das Corona-Virus</h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/downloads/" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="1024" data-large_image_height = "723"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2020/12/clause-67400_1280-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/clause-67400_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1606820308268" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Verordnungen und Allgemeinverfügungen</h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/betroffen" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="845" data-large_image_height = "1005"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2020/12/woman-698946_1280-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/woman-698946_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1607345480338" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Ich bin betroffen</h4>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="https://unser.gera.de/corona/wirtschaft" target="_self"  class="vc_single_image-wrapper vc_box_border_circle  vc_box_border_grey rollover" data-large_image_width="1024" data-large_image_height = "678"     ><img width="150" height="150" src="https://unser.gera.de/wp-content/uploads/2020/12/keyboard-338502_1280-150x150.jpg" class="vc_single_image-img attachment-thumbnail" alt="" loading="lazy"  data-dt-location="https://unser.gera.de/corona/keyboard-338502_1280/" /></a>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  vc_custom_1606820755423" >
+		<div class="wpb_wrapper">
+			<h4 style="text-align: center;">Wirtschaft</h4>
+
+		</div>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_30 vc_sep_border_width_3 vc_sep_pos_align_center vc_separator_no_text vc_sep_color_sky" ><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-92345fd135d5567ac" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-92345fd135d5567ac uvc-4256  uvc-heading-default-font-sizes" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-92345fd135d5567ac h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="--font-weight:theme;">Bürger-Hotline</h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-92345fd135d5567ac .uvc-sub-heading '  data-responsive-json-new='{"font-size":"","line-height":""}'  style="font-weight:normal;"></p>
+<h3>0365 838 3526</h3>
+<p>Mo. &#8211; Do.: 09:00 &#8211; 12:00 Uhr und 13:00 &#8211; 17:00 Uhr<br />
+Fr.:    09:00 &#8211; 15:00 Uhr</p>
+<p>(Bitte nicht anrufen, um Testergebnisse zu erfragen. Sie werden vom Gesundheitsamt kontaktiert)</div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div id="ultimate-heading-18185fd135d5568d8" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-18185fd135d5568d8 uvc-6491  uvc-heading-default-font-sizes" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-18185fd135d5568d8 h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="--font-weight:theme;">Unternehmer-Hotline</h2></div><div class="uvc-sub-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-18185fd135d5568d8 .uvc-sub-heading '  data-responsive-json-new='{"font-size":"","line-height":""}'  style="font-weight:normal;"></p>
+<h3>0365 838 1219</h3>
+<p>Mo. &#8211; Fr.: 09:00 &#8211; 15:00 Uhr</div></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div>
+
+	</div><!-- #content -->
+
+	
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+	
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span>Diese Website verwendet Cookies – nähere Informationen dazu und zu Ihren Rechten als Benutzer finden Sie in unserer Datenschutzerklärung am Ende der Seite. Klicken Sie auf „Ich stimme zu“, um Cookies zu akzeptieren und direkt unsere Website besuchen zu können.<a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block;  margin:5px; ">Ich stimme zu</a></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button type="button" class="cli-modal-close" id="cliModalClose">
+        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+        <span class="wt-cli-sr-only">Schließen</span>
+      </button>
+      <div class="cli-modal-body">
+        <div class="cli-container-fluid cli-tab-container">
+    <div class="cli-row">
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-privacy-overview">
+                <h4>Privacy Overview</h4>                <div class="cli-privacy-content">
+                    <div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+                </div>
+                <a class="cli-privacy-readmore" data-readmore-text="Mehr anzeigen" data-readless-text="Weniger anzeigen"></a>            </div>
+        </div>
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+              
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+                                Notwendig                            </a>
+                            <div class="wt-cli-necessary-checkbox">
+                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Notwendig</label>
+                    </div>
+                    <span class="cli-necessary-caption">immer aktiv</span>                         </div>
+                        <div class="cli-tab-content">
+                            <div class="cli-tab-pane cli-fade" data-id="necessary">
+                                <p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
+                            </div>
+                        </div>
+                    </div>
+                              
+                                    <div class="cli-tab-section">
+                        <div class="cli-tab-header">
+                            <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+                                Nicht notwendig                            </a>
+                            <div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
+                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Aktiviert" data-cli-disable="Deaktiviert"><span class="wt-cli-sr-only">Nicht notwendig</span></label>
+                    </div>                        </div>
+                        <div class="cli-tab-content">
+                            <div class="cli-tab-pane cli-fade" data-id="non-necessary">
+                                <p>Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.</p>
+                            </div>
+                        </div>
+                    </div>
+                            
+        </div>
+    </div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all-->		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": aktivieren, um Spalte aufsteigend zu sortieren","sort_descending":": aktivieren, um Spalte absteigend zu sortieren"},"length_menu":"Show _MENU_ entries","empty_table":"Keine Daten verf\u00fcgbar in der Tabelle","info":"Zeige von _START_ bis _END_ von ingesamt _TOTAL_ Eintr\u00e4gen","info_empty":"Zeige 0 bis 0 von 0 Eintr\u00e4gen","info_filtered":"(gefiltert von _MAX_ Gesamt Eintr\u00e4gen)","zero_records":"Keine Zeilen gefunden","search":"Suche:","all_selected_text":"Alle Objekte auf dieser Seite wurden selektiert. ","select_all_link":"Alle Seiten selektieren","clear_selection":"Auswahl aufheben.","pagination":{"all":"Alle","next":"N\u00e4chste","previous":"Vorherige"},"select":{"rows":{"0":"","_":": Ausgew\u00e4hlte %d Zeilen","1":": Ausgew\u00e4hlte 1 Zeile"}},"datepicker":{"dayNames":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"dayNamesShort":["So","Mo","Di","Mi","Do","Fr","Sa"],"dayNamesMin":["S","M","D","M","D","F","S"],"monthNames":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthNamesShort":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthNamesMin":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],"nextText":"Weiter","prevText":"Zur\u00fcck","currentText":"Heute","closeText":"Erledigt","today":"Heute","clear":"Leeren"}};/* ]]> */ </script><script type="text/html" id="wpb-modifications"></script><link rel='stylesheet' id='ult-background-style-css'  href='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.7' type='text/css' media='all' />
+<script type='text/javascript' src='https://unser.gera.de/wp-content/themes/dt-the7/js/main.min.js?ver=9.5.0' id='dt-main-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/unser.gera.de\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.1' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.5.7' id='codedropz-uploader-js'></script>
+<script type='text/javascript' id='dnd-upload-cf7-js-extra'>
+/* <![CDATA[ */
+var dnd_cf7_uploader = {"ajax_url":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php","ajax_nonce":"3410f5fcb4","drag_n_drop_upload":{"tag":"h3","text":"Ziehen & fallenlassen Hier","or_separator":"oder","browse":"Dateien ausw\u00e4hlen","server_max_error":"Die hochgeladene Datei \u00fcberschreitet die maximale Upload-Gr\u00f6\u00dfe Ihres Servers.","large_file":"Die Datei \u00fcberscheitet das Upload Limit!","inavalid_type":"Die Hochgeladene Datei ist f\u00fcr diesen Dateityp nicht erlaubt.","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )","required":"This field is required.","delete":{"text":"deleting","title":"Remove"}},"dnd_text_counter":"von","disable_btn":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js?ver=1.3.5.7' id='dnd-upload-cf7-js'></script>
+<script type='text/javascript' id='rate-my-post-js-extra'>
+/* <![CDATA[ */
+var rmp_frontend = {"admin_ajax":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php","postID":"58280","noVotes":"Bisher keine Bewertungen! Sei der Erste, der diese Idee bewertet.","cookie":"Du hast diese Idee bereits bewertet! Diese Bewertung wird nicht gez\u00e4hlt!","afterVote":"Danke f\u00fcr die Bewertung!","notShowRating":"1","social":"1","feedback":"1","cookieDisable":"1","emptyFeedback":"Bitte schreibe deine Meinung in das obige Feld!","hoverTexts":"1","preventAccidental":"2","grecaptcha":"1","siteKey":"","votingPriv":"1","loggedIn":"","positiveThreshold":"2","ajaxLoad":"1","nonce":"fed468b0ec"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/rate-my-post/public/js/rate-my-post.js?ver=3.3.1' id='rate-my-post-js'></script>
+<script type='text/javascript' id='theme-my-login-js-extra'>
+/* <![CDATA[ */
+var themeMyLogin = {"action":"","errors":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/theme-my-login/assets/scripts/theme-my-login.min.js?ver=7.1.2' id='theme-my-login-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/dt-the7-core/assets/js/post-type.min.js?ver=2.5.4' id='the7-core-js'></script>
+<script type='text/javascript' id='wpcf7cf-scripts-js-extra'>
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/unser.gera.de\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=1.9.14' id='wpcf7cf-scripts-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.4.2' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.19.7' id='ultimate-appear-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.7' id='ultimate-row-bg-js'></script>
+<script type='text/javascript' src='https://unser.gera.de/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.7' id='ultimate-custom-js'></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
