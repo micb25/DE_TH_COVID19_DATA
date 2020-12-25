@@ -1,0 +1,121 @@
+Landkreis Schmalkalden-Meiningen
+Freitag, 25. Dezember 2020                                             x
+
+COVID-19 Tägliches Lagebild                                            x
+
+Stand:                                           25.12.20 10:00
+
+
+Aspekt                                                                     Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                       142
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                       2525
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                   32
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                  51
+
+Verstorbene an COVID19                                                        38
+
+Verstorbene mit COVID19                                                       21
+Genesene seit der letzten Lagemeldung (nur teilweise Erfassung am
+Wochenende)                                                                   87
+
+Gesamtzahl der Genesenen                                                     1925
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                            26
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                       449,9
+
+
+
+Quarantänefälle                                                            Anzahl
+
+aktive positive Fälle                                                        542
+
+
+
+Anmerkung: *Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die
+durch das Gesundheitsamt durchgeführt wurden. Die Anzahl der durch Arztpraxen,
+Kliniken, etc. durchgeführten Tests liegen nicht vor.
+Anzahl nach Gemeinden / Ortsteilen        aktive positive Fälle
+Belrieth                                                     2
+Breitungen                                                  10
+Brotterode-Trusetal                                         23
+Brotterode-Trusetal / OT Brotterode                          1
+Christes                                                     4
+Dillstädt                                                    1
+Erbenhausen                                                  1
+Fambach                                                      8
+Floh-Seligenthal                                            34
+Floh-Seligenthal / OT Hohleborn                              1
+Floh-Seligenthal / OT Schnellbach                            1
+Floh-Seligenthal / OT Struth-Helmershof                      7
+Frankenheim/Rhön                                             3
+Friedelshausen                                               1
+Grabfeld / OT Behrungen                                      6
+Grabfeld / OT Berkach                                        2
+Grabfeld / OT Bibra                                          2
+Grabfeld / OT Exdorf                                         1
+Grabfeld / OT Jüchsen                                        3
+Grabfeld / OT Nordheim                                       2
+Grabfeld / OT Queienfeld                                     6
+Grabfeld / OT Rentwertshausen                                5
+Grabfeld / OT Schwickershausen                               3
+Grabfeld / OT Wölfershausen                                  3
+Grabfeld / OT Wolfmannshausen                                3
+Kaltennordheim                                               6
+Kaltennordheim / OT Kaltenlengsfeld                          1
+Kaltennordheim / OT Klings                                   2
+Kaltennordheim / OT Mittelsdorf                              1
+Kühndorf                                                    12
+Mehmels                                                      4
+Meiningen                                                   93
+Meiningen / OT Dreißigacker                                  5
+Meiningen / OT Henneberg                                     1
+Meiningen / OT Herpf                                         2
+Meiningen / OT Stepfershausen                                2
+Meiningen / OT Walldorf                                     13
+Oberhof                                                      9
+Obermaßfeld-Grimmenthal                         8
+Oberweid                                        7
+Rhönblick / OT Bettenhausen                     6
+Rhönblick / OT Gleimershausen                   2
+Rhönblick / OT Seeba                            1
+Rhönblick / OT Stedtlingen                      1
+Rhönblick / OT Wohlmuthausen                    1
+Rippershausen                                   1
+Rippershausen / OT Solz                         1
+Ritschenhausen                                  2
+Rosa                                            1
+Roßdorf                                         2
+Schmalkalden                                   32
+Schmalkalden / OT Helmers                       1
+Schmalkalden / OT Mittelschmalkalden            1
+Schmalkalden / OT Mittelstille                  1
+Schmalkalden / OT Möckers                       4
+Schmalkalden / OT Niederschmalkalden            2
+Schmalkalden / OT Springstille                  3
+Schmalkalden / OT Wernshausen                   3
+Schwallungen                                    5
+Schwallungen / OT Zillbach                      1
+Schwarza                                       12
+Steinbach-Hallenberg                           22
+Steinbach-Hallenberg / OT Altersbach            4
+Steinbach-Hallenberg / OT Bermbach              1
+Steinbach-Hallenberg / OT Herges-Hallenberg     2
+Steinbach-Hallenberg / OT Rotterode             7
+Steinbach-Hallenberg / OT Viernau              15
+Sülzfeld                                        4
+Untermaßfeld                                    4
+Utendorf                                        2
+Vachdorf                                        4
+Wasungen                                       18
+Wasungen / OT Hümpfershausen                    1
+Wasungen / OT Oepfershausen                     1
+Zella-Mehlis                                   69
+Zella-Mehlis / OT Benshausen                    6
+Gesamtergebnis                                542
+
