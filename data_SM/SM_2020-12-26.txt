@@ -1,0 +1,129 @@
+Landkreis Schmalkalden-Meiningen
+Samstag, 26. Dezember 2020                                             x
+
+COVID-19 Tägliches Lagebild
+Stand:                                           26.12.20 12:30 Uhr
+
+
+Aspekt                                                                     Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                        57
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                       2577
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                   35
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                  52
+
+Verstorbene an COVID19                                                        38
+
+Verstorbene mit COVID19                                                       21
+Genesene seit der letzten Lagemeldung (nur teilweise Erfassung am
+Wochenende)                                                                   71
+
+Gesamtzahl der Genesenen                                                     1991
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                            0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                       442,7
+
+
+
+Quarantänefälle                                                            Anzahl
+
+aktive positive Fälle                                                        527
+
+
+
+Anmerkung: *Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die
+durch das Gesundheitsamt durchgeführt wurden. Die Anzahl der durch Arztpraxen,
+Kliniken, etc. durchgeführten Tests liegen nicht vor.
+
+Hinweis: Aufgrund der anhaltend hohen Zahlen von Infektionen mit dem Coronavirus
+SARS-CoV-2 und der damit verbundenen starken Arbeitsbelastung für das
+Gesundheitsamt kann es zu Einschränkungen bei der Statistik kommen. Mögliche
+Differenzen zum Vortag kommen durch Fehlerbehebungen zustande. Das
+Gesundheitsamt bittet um Verständnis in dieser nach wie vor außergewöhnlichen und
+auch herausfordernden Lage. Das Ziel ist, die Daten dauerhaft ohne Einschränkungen in
+der gewohnt hohen Qualität zur Verfügung zu stellen.
+Anzahl nach Gemeinden / Ortsteilen        aktive positive Fälle
+Belrieth                                                     2
+Breitungen                                                  12
+Brotterode-Trusetal                                         23
+Christes                                                     3
+Dillstädt                                                    1
+Ellingshausen                                                1
+Erbenhausen                                                  1
+Fambach                                                      7
+Floh-Seligenthal                                            32
+Floh-Seligenthal / OT Hohleborn                              1
+Floh-Seligenthal / OT Schnellbach                            1
+Floh-Seligenthal / OT Struth-Helmershof                      8
+Frankenheim/Rhön                                             4
+Friedelshausen                                               1
+Grabfeld                                                     1
+Grabfeld / OT Behrungen                                      9
+Grabfeld / OT Berkach                                        2
+Grabfeld / OT Bibra                                          4
+Grabfeld / OT Exdorf                                         1
+Grabfeld / OT Jüchsen                                        3
+Grabfeld / OT Nordheim                                       2
+Grabfeld / OT Queienfeld                                     6
+Grabfeld / OT Rentwertshausen                                4
+Grabfeld / OT Schwickershausen                               3
+Grabfeld / OT Wölfershausen                                  3
+Grabfeld / OT Wolfmannshausen                                3
+Kaltennordheim                                               7
+Kaltennordheim / OT Kaltenlengsfeld                          1
+Kaltennordheim / OT Kaltenwestheim                           1
+Kaltennordheim / OT Klings                                   2
+Kaltennordheim / OT Mittelsdorf                              1
+Kühndorf                                                    11
+Mehmels                                                      3
+Meiningen                                                   97
+Meiningen / OT Dreißigacker                                  4
+Meiningen / OT Henneberg                                     1
+Meiningen / OT Herpf                                         2
+Meiningen / OT Stepfershausen                                1
+Meiningen / OT Walldorf                        11
+Oberhof                                         9
+Obermaßfeld-Grimmenthal                         7
+Oberweid                                        5
+Rhönblick / OT Bettenhausen                     6
+Rhönblick / OT Gleimershausen                   2
+Rhönblick / OT Seeba                            1
+Rhönblick / OT Stedtlingen                      1
+Rhönblick / OT Wohlmuthausen                    1
+Rippershausen                                   3
+Rippershausen / OT Solz                         1
+Ritschenhausen                                  1
+Rosa                                            2
+Roßdorf                                         2
+Schmalkalden                                   31
+Schmalkalden / OT Helmers                       1
+Schmalkalden / OT Mittelstille                  1
+Schmalkalden / OT Möckers                       4
+Schmalkalden / OT Niederschmalkalden            1
+Schmalkalden / OT Springstille                  2
+Schmalkalden / OT Wernshausen                   3
+Schwallungen                                    4
+Schwallungen / OT Zillbach                      1
+Schwarza                                       11
+Steinbach-Hallenberg                           20
+Steinbach-Hallenberg / OT Altersbach            2
+Steinbach-Hallenberg / OT Bermbach              1
+Steinbach-Hallenberg / OT Herges-Hallenberg     2
+Steinbach-Hallenberg / OT Rotterode             7
+Steinbach-Hallenberg / OT Viernau              13
+Sülzfeld                                        4
+Untermaßfeld                                    4
+Utendorf                                        2
+Vachdorf                                        5
+Wasungen                                       20
+Wasungen / OT Hümpfershausen                    1
+Wasungen / OT Oepfershausen                     1
+Zella-Mehlis                                   60
+Zella-Mehlis / OT Benshausen                    5
+Gesamtergebnis                                527
+
