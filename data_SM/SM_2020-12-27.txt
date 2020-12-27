@@ -1,0 +1,113 @@
+COVID-19 Tägliches Lagebild                                              x
+
+Stand:                                           27.12.20 10:00
+
+
+Aspekt                                                                       Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                        17
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                       2594
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                   35
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                  52
+
+Verstorbene an COVID19                                                        40
+
+Verstorbene mit COVID19                                                       24
+Genesene seit der letzten Lagemeldung (nur teilweise Erfassung am
+Wochenende)                                                                   74
+
+Gesamtzahl der Genesenen                                                     2065
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                             0
+
+7-Tage-Inzidenz pro 100.000 Einwohner                                        409,1
+
+
+
+Quarantänefälle                                                              Anzahl
+
+aktive positive Fälle                                                         465
+
+
+
+
+Anzahl nach Gemeinden / Ortsteilen               aktive positive Fälle
+Belrieth                                                             2
+Breitungen                                                          11
+Brotterode-Trusetal                                                 20
+Christes                                                             2
+Dillstädt                                                            1
+Ellingshausen                                                        1
+Erbenhausen                                                          1
+Fambach                                                              7
+Floh-Seligenthal                                                    26
+Floh-Seligenthal / OT Floh                                           3
+Floh-Seligenthal / OT Schnellbach          1
+Floh-Seligenthal / OT Seligenthal          1
+Floh-Seligenthal / OT Struth-Helmershof    7
+Frankenheim/Rhön                           3
+Friedelshausen                             1
+Grabfeld / OT Behrungen                    8
+Grabfeld / OT Behrungen                    1
+Grabfeld / OT Berkach                      2
+Grabfeld / OT Bibra                        4
+Grabfeld / OT Exdorf                       1
+Grabfeld / OT Jüchsen                      2
+Grabfeld / OT Nordheim                     1
+Grabfeld / OT Queienfeld                   4
+Grabfeld / OT Rentwertshausen              4
+Grabfeld / OT Schwickershausen             2
+Grabfeld / OT Wölfershausen                3
+Grabfeld / OT Wolfmannshausen              3
+Kaltennordheim                             7
+Kaltennordheim / OT Kaltenlengsfeld        1
+Kaltennordheim / OT Kaltenwestheim         1
+Kaltennordheim / OT Klings                 2
+Kaltennordheim / OT Mittelsdorf            1
+Kühndorf                                   6
+Mehmels                                    3
+Meiningen                                 91
+Meiningen / OT Dreißigacker                3
+Meiningen / OT Henneberg                   1
+Meiningen / OT Herpf                       2
+Meiningen / OT Walldorf                   10
+Oberhof                                    9
+Obermaßfeld-Grimmenthal                    7
+Oberweid                                   4
+Rhönblick / OT Bettenhausen                4
+Rhönblick / OT Gleimershausen              2
+Rhönblick / OT Stedtlingen                 1
+Rippershausen                              3
+Rippershausen / OT Solz                    1
+Ritschenhausen                             1
+Rosa                                       1
+Roßdorf                                    2
+Schmalkalden                                   28
+Schmalkalden / OT Mittelstille                  1
+Schmalkalden / OT Möckers                       4
+Schmalkalden / OT Niederschmalkalden            1
+Schmalkalden / OT Springstille                  2
+Schmalkalden / OT Wernshausen                   3
+Schwallungen                                    3
+Schwallungen / OT Zillbach                      1
+Schwarza                                        9
+Steinbach-Hallenberg                           20
+Steinbach-Hallenberg / OT Altersbach            2
+Steinbach-Hallenberg / OT Bermbach              1
+Steinbach-Hallenberg / OT Herges-Hallenberg     2
+Steinbach-Hallenberg / OT Rotterode             6
+Steinbach-Hallenberg / OT Viernau              12
+Sülzfeld                                        2
+Untermaßfeld                                    4
+Vachdorf                                        4
+Wasungen                                       20
+Wasungen / OT Hümpfershausen                    1
+Wasungen / OT Oepfershausen                     1
+Zella-Mehlis                                   49
+Zella-Mehlis / OT Benshausen                    4
+Gesamtergebnis                                465
+
