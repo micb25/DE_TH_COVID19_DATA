@@ -9,7 +9,7 @@ DATAPATH = os.path.dirname(os.path.abspath(__file__)) + os.sep + ".." + os.sep +
 DATE_STR = datetime.fromtimestamp(datetime.now().timestamp()).strftime('%Y-%m-%d')
 FILENAME = "SHL_{}.html".format(DATE_STR)
 FULLNAME = DATAPATH + FILENAME
-URL  = "https://www.suhltrifft.de/content/view/6826/2246/"
+URL  = "https://www.suhltrifft.de/content/view/6977/2246/"
 
 if os.path.isfile(FULLNAME):
 
