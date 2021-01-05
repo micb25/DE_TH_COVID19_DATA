@@ -9,7 +9,7 @@ DATAPATH = os.path.dirname(os.path.abspath(__file__)) + os.sep + ".." + os.sep +
 DATE_STR = datetime.fromtimestamp(datetime.now().timestamp()).strftime('%Y-%m-%d')
 FILENAME = "SOK_{}.html".format(DATE_STR)
 FULLNAME = DATAPATH + FILENAME
-URL  = "https://www.saale-orla-kreis.de/de/corona/aktuelle-mitteilungen-und-informationen-zur-corona-situation-im-saale-orla-kreis.html"
+URL  = "https://www.saale-orla-kreis.de/de/fallzahlen-im-kreisgebiet.html"
 
 if os.path.isfile(FULLNAME):
 
