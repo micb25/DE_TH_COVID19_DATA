@@ -10,6 +10,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 4   | EF          | Erfurt                 | [data_EF/](data_EF/)   | [https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html](https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html)
 | 5   | G           | Gera                   | [data_G/](data_G/)     | [https://unser.gera.de/corona/](https://unser.gera.de/corona/)
 | 7   | GRZ         | Greiz                  | [data_GRZ/](data_GRZ/) | [https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/](https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/)
+| 8   | GTH         | Gotha                  | [data_GTH/](data_GTH/) | [https://www.landkreis-gotha.de](https://www.landkreis-gotha.de)
 | 10  | J           | Jena                   | [data_J/](data_J/)     | [https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad](https://opendata.jena.de/dataset/corona-erkrankungen/resource/d3ba07b6-fb19-451b-b902-5b18d8e8cbad)
 | 11  | KYF         | Kyffhäuserkreise       | [data_KYF/](data_KYF/) | [https://www.kyffhaeuser.de/kyf/index.php/landkreis.html](https://www.kyffhaeuser.de/kyf/index.php/landkreis.html)
 | 12  | NDH         | Nordhausen             | [data_NDH/](data_NDH/) | [https://www.landratsamt-nordhausen.de/informationen-coronavirus.html](https://www.landratsamt-nordhausen.de/informationen-coronavirus.html)
