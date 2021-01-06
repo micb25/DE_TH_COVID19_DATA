@@ -1,9 +1,9 @@
 name: daily IK update
 
 on:
-  push:
-    branches:
-      - master
+#  push:
+#    branches:
+#      - master
   schedule:
     - cron: "45 21 * * *"
 
