@@ -30,7 +30,8 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 
 Sonstige Thüringer Daten:
 
-| #   | Beschreibung                       | Ordner                               | Quelle |
-| --: | :--                                | :--                                  | :--    |
-| 1   | Thüringer Schulen und Kindergärten | [data_TH_Schulen/](data_TH_Schulen/) | [https://bildung.thueringen.de/ministerium/coronavirus/](https://bildung.thueringen.de/ministerium/coronavirus/)
-| 2   | Impfungen                          | [data_TH_Impfungen/](data_TH_Impfungen/) | [https://www.tmasgff.de/covid-19/impfen](https://www.tmasgff.de/covid-19/impfen)
+| #   | Beschreibung                       | Ordner                                     | Quelle |
+| --: | :--                                | :--                                        | :--    |
+| 1   | Thüringer Schulen und Kindergärten | [data_TH_Schulen/](data_TH_Schulen/)       | [https://bildung.thueringen.de/ministerium/coronavirus/](https://bildung.thueringen.de/ministerium/coronavirus/)
+| 2   | Impfungen                          | [data_TH_Impfungen/](data_TH_Impfungen/)   | [https://www.tmasgff.de/covid-19/impfen](https://www.tmasgff.de/covid-19/impfen)
+| 3   | Corona-Lage-Flyer (TMASGFF)        | [data_TH_Lage-Flyer/](data_TH_Lage-Flyer/) | [https://corona.thueringen.de/](https://corona.thueringen.de/)
