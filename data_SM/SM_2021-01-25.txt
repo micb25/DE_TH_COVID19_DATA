@@ -1,0 +1,81 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 25. Januar 2021
+
+COVID-19 Tägliches Lagebild                                                 x
+
+Stand:                                                          25.01.2021 10:00 Uhr
+
+
+Aspekt                                                                           Anzahl
+
+
+Bestätigte Neuinfektionen seit der letzten Lagemeldung                            176
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                            4.360
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                        53
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                       49
+
+Verstorbene an COVID19                                                            102
+
+Verstorbene mit COVID19                                                            49
+
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                        3.828
+
+Gesamt-COVID-19 Tests seit der letzten Lagemeldung                                 26
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RkI, mit Stand 0:00 Uhr)              292
+
+
+
+Quarantänefälle
+
+aktive positive Fälle                                                             381
+
+
+Anmerkung: *Die Zahl der COVID-19-Test bezieht sich ausschließlich auf die Tests, die durch
+das Gesundheitsamt durchgeführt wurden. Die Anzahl der durch Arztpraxen, Kliniken, etc.
+durchgeführten Tests liegen nicht vor.
+
+Hinweis: Aufgrund der anhaltend hohen Zahlen von Infektionen mit dem Coronavirus SARS-
+CoV-2 und der damit verbundenen starken Arbeitsbelastung für das Gesundheitsamt kann es
+zu Einschränkungen bei der Statistik kommen. Mögliche Differenzen zum Vortag kommen
+durch Fehlerbehebungen zustande. Das Gesundheitsamt bittet um Verständnis in dieser nach
+wie vor außergewöhnlichen und auch herausfordernden Lage. Das Ziel ist, die Daten
+dauerhaft ohne Einschränkungen in der gewohnt hohen Qualität zur Verfügung zu stellen.
+Aktive Fälle nach Gemeinden
+Zeilenbeschriftungen      Anzahl von fallFallkennzeichen
+Belrieth                                                     1
+Breitungen/Werra                                            13
+Brotterode-Trusetal                                         24
+Christes                                                     1
+Dillstädt                                                    1
+Fambach                                                     11
+Floh-Seligenthal                                             8
+Frankenheim/Rhön                                             5
+Friedelshausen                                               1
+Grabfeld                                                    11
+Kaltennordheim                                              11
+Kühndorf                                                     4
+Meiningen                                                   65
+Oberhof                                                     11
+Obermaßfeld-Grimmenthal                                      4
+Oberweid                                                     1
+Rhönblick                                                    6
+Rippershausen                                                2
+Rohr                                                         1
+Rosa                                                         1
+Schmalkalden                                                93
+Schwallungen                                                 5
+Schwarza                                                     1
+Steinbach-Hallenberg                                        58
+Sülzfeld                                                     1
+Untermaßfeld                                                 1
+Utendorf                                                     1
+Vachdorf                                                     2
+Wasungen                                                     7
+Zella-Mehlis                                                30
+Gesamtergebnis                                             381
+
