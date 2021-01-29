@@ -1,0 +1,94 @@
+Landkreis Schmalkalden-Meiningen
+Freitag, 29. Januar 2021
+
+
+COVID-19 Tägliches Lagebild                                             x
+
+Stand:                                                      29.01.2021 10:00 Uhr
+
+
+Aspekt                                                                       Anzahl
+
+
+Befundeingänge der letzten 24 h (Meldedatum kann abweichen)                     64
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                        4.709
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                     44
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                    67
+
+Verstorbene im Zusammenhang mit COVID19                                        160
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                    4.008
+
+Gesamt-COVID19 Tests seit der letzten Lagemeldung                               19
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)*          341
+
+
+
+Quarantänefälle
+
+aktive positive Fälle                                                          541
+
+
+Hinweis:*Im Rahmen der am vergangenen Wochenende erfolgten vollumfänglichen
+Systemumstellung hat das Landratsamt Schmalkalden-Meiningen auch die Berechnung des
+7- Tage-Inzidenz-Wertes entsprechend des Berechnungsverfahrens des Robert-Koch-
+Instituts (RKI) umgestellt. Die Inzidenzzahl wird wie beim RKI künftig nach Meldedatum der
+Befunde (Befunde mit Meldedaten der letzten sieben Tage) und nicht mehr nach
+Befundeingang ermittelt. Das heißt, dass sich die Zahl der täglich neu gemeldeten Fälle
+auch rückwirkend ändern kann und sich damit auch die Berechnungsgrundlage für die 7-
+Tage-Inzidenz dynamisch entwickelt (z.B. Befundeingänge mit Meldedatum älter als 24
+Stunden, Laborfehlmeldungen, abgegebene Fälle an wohnortzuständige Landkreise). Da
+entsprechend der aktuellen Landesverordnung die Inzidenzzahl des RKI maßgeblich ist,
+wird auch nur noch diese Zahl ausgewiesen, um Verwirrungen zu vermeiden. Anstelle der
+täglichen Neuinfektionen meldet das Landratsamt künftig die seit der Lagemeldung um 10
+Uhr des Vortags eingegangenen Befundeingänge (unabhängig von den Meldedaten der
+Befunde). Aufgrund der unterschiedlichen Meldezeiten (das RKI meldet die Zahlen 0 Uhr)
+kann es hier aber weiterhin zu Abweichungen bei den täglich durch das RKI neu
+gemeldeten Fällen kommen.
+Anmerkung: Aufgrund der anhaltend hohen Zahlen von Infektionen mit dem Coronavirus
+SARSCoV-2 und der damit verbundenen starken Arbeitsbelastung für das Gesundheitsamt
+kann es zu Einschränkungen bei der Statistik kommen. Mögliche Differenzen zum Vortag
+kommen durch Fehlerbehebungen zustande. Das Gesundheitsamt bittet um Verständnis in
+dieser nach wie vor außergewöhnlichen und auch herausfordernden Lage. Das Ziel ist, die
+Daten dauerhaft ohne Einschränkungen in der gewohnt hohen Qualität zur Verfügung zu
+stellen.
+
+
+Aktive Fälle nach Gemeinden
+Zeilenbeschriftungen        Anzahl von fallFallkennzeichen
+Breitungen/Werra                                               16
+Brotterode-Trusetal                                            22
+Christes                                                        6
+Dillstädt                                                       1
+Einhausen                                                       2
+Fambach                                                        16
+Floh-Seligenthal                                               16
+Frankenheim/Rhön                                                2
+Friedelshausen                                                  1
+Grabfeld                                                        9
+Kaltennordheim                                                 21
+Kühndorf                                                        1
+Mehmels                                                         1
+Meiningen                                                     137
+Oberhof                                                         5
+Obermaßfeld-Grimmenthal                                         1
+Oberweid                                                        2
+Rhönblick                                                       8
+Rippershausen                                                   7
+Ritschenhausen                                                  1
+Schmalkalden                                                  134
+Schwallungen                                                   13
+Schwarza                                                        2
+Steinbach-Hallenberg                                           73
+Sülzfeld                                                        1
+Untermaßfeld                                                    2
+Utendorf                                                        1
+Vachdorf                                                        1
+Wasungen                                                       11
+Zella-Mehlis                                                   28
+Gesamtergebnis                                                541
+
