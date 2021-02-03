@@ -1,9 +1,9 @@
 name: daily AP update
 
 on:
-  push:
-    branches:
-      - master
+#  push:
+#    branches:
+#      - master
   schedule:
     - cron: "15 22 * * *"
 
