@@ -9,7 +9,7 @@ DATAPATH = os.path.dirname(os.path.abspath(__file__)) + os.sep + ".." + os.sep +
 DATE_STR = datetime.fromtimestamp(datetime.now().timestamp()).strftime('%Y-%m-%d')
 FILENAME = "GRZ_{}.html".format(DATE_STR)
 FULLNAME = DATAPATH + FILENAME
-URL  = "https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/"
+URL  = "https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-startseite/fallzahlen"
 
 if os.path.isfile(FULLNAME):
 

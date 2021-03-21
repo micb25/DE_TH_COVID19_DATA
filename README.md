@@ -9,7 +9,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 3   | EA          | Eisenach               | [data_EA_WAK/](data_EA_WAK/) | siehe Wartburgkreis
 | 4   | EF          | Erfurt                 | [data_EF/](data_EF/)   | [https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html](https://www.erfurt.de/ef/de/service/aktuelles/topthemen/coronavirus/index.html)
 | 5   | G           | Gera                   | [data_G/](data_G/)     | [https://unser.gera.de/corona/](https://unser.gera.de/corona/)
-| 6   | GRZ         | Greiz                  | [data_GRZ/](data_GRZ/) | [https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/](https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-virus/fallzahlen/)
+| 6   | GRZ         | Greiz                  | [data_GRZ/](data_GRZ/) | [https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-startseite/fallzahlen](https://www.landkreis-greiz.de/landkreis-greiz/aktuell/nachrichten-details/corona-startseite/fallzahlen)
 | 7   | GTH         | Gotha                  | [data_GTH/](data_GTH/) | [https://www.landkreis-gotha.de](https://www.landkreis-gotha.de)
 | 8   | HBN         | Hildburghausen         | [data_HBN/](data_HBN/) | [https://www.landkreis-hildburghausen.de/Aktuelles-Covid-19/Aktuelles-zu-Covid-19-im-Landkreis/Aktuelle-Meldungen-aus-dem-Landkreis](https://www.landkreis-hildburghausen.de/Aktuelles-Covid-19/Aktuelles-zu-Covid-19-im-Landkreis/Aktuelle-Meldungen-aus-dem-Landkreis)
 | 9   | IK          | Ilm-Kreis              | [data_IK/](data_IK/)   | [https://www.ilm-kreis.de/Landkreis/Ver%C3%B6ffentlichungen/](https://www.ilm-kreis.de/Landkreis/Ver%C3%B6ffentlichungen/)
