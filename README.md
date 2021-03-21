@@ -19,7 +19,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 13  | SHK         | Saale-Holzland-Kreis   | [data_SHK/](data_SHK/) | [https://www.saaleholzlandkreis.de/corona-virus/uebersicht-fall-zahlen/](https://www.saaleholzlandkreis.de/corona-virus/uebersicht-fall-zahlen/)
 | 14  | SOK         | Saale-Orla-Kreis       | [data_SOK/](data_SOK/) | [https://www.saale-orla-kreis.de/de/corona/aktuelle-mitteilungen-und-informationen-zur-corona-situation-im-saale-orla-kreis.html](https://www.saale-orla-kreis.de/de/corona/aktuelle-mitteilungen-und-informationen-zur-corona-situation-im-saale-orla-kreis.html)
 | 15  | SLF         | Saalfeld-Rudolstadt    | [data_SLF/](data_SLF/) | [https://www.kreis-slf.de/sport-und-gesundheit/](https://www.kreis-slf.de/sport-und-gesundheit/)
-| 16  | SM          | Schmalkalden-Meiningen | [data_SM/](data_SM/)   | [https://www.lra-sm.de/?p=22632](https://www.lra-sm.de/?p=22632)
+| 16  | SM          | Schmalkalden-Meiningen | [data_SM/](data_SM/)   | [https://www.lra-sm.de/?p=26273](https://www.lra-sm.de/?p=26273)
 | 17  | SHL         | Suhl                   | [data_SHL/](data_SHL/) | [https://www.suhltrifft.de/content/blogsection/41/2246/](https://www.suhltrifft.de/content/blogsection/41/2246/)
 | 18  | SÖM         | Sömmerda               | [data_SÖM/](data_SÖM/) | [https://spweb.lra-soemmerda.de/Seiten/Corona.aspx](https://spweb.lra-soemmerda.de/Seiten/Corona.aspx)
 | 19  | SON         | Sonneberg              | [data_SON/](data_SON/) | [https://www.kreis-sonneberg.de/news/information-zum-infektionsgeschehen-im-landkreis-sonneberg](https://www.kreis-sonneberg.de/news/information-zum-infektionsgeschehen-im-landkreis-sonneberg)

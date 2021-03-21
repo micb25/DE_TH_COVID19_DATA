@@ -11,7 +11,7 @@ FILENAME = "SM_{}.pdf".format(DATE_STR)
 FULLNAME = DATAPATH + FILENAME
 
 def saveSMNumbers():
-    url = "https://www.lra-sm.de/?p=22632"
+    url = "https://www.lra-sm.de/?p=26273"
     headers = { 'Pragma': 'no-cache', 'Cache-Control': 'no-cache' }
     
     DATE_STR = datetime.fromtimestamp(datetime.now().timestamp()).strftime('%Y-%m-%d')
