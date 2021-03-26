@@ -1,0 +1,57 @@
+COVID-19 Tägliches Lagebild                                                   x
+Stand:                                                           26.03.2021   10:00 Uhr
+
+
+Aspekt                                                                            Anzahl
+
+Befundeingänge der letzten 24 h (Meldedatum kann abweichen)                        74
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                            7.432
+Patienten in stationärer Behandlung - Erkrankung an COVID19                        64
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                       21
+Verstorbene im Zusammenhang mit COVID19                                            277
+Gesamtzahl abgelaufener Quarantänezeitraum                                        6.442
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                                159
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)              327,4
+Quarantänefälle
+
+aktive positive Fälle                                                              713
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen      Anzahl von fallFallkennzeichen
+Belrieth                                2
+Breitungen/Werra                        37
+Brotterode-Trusetal                     31
+Christes                                1
+Dillstädt                               1
+Einhausen                               5
+Erbenhausen                             3
+Fambach                                 14
+Floh-Seligenthal                        46
+Frankenheim/Rhön                         8
+Friedelshausen                           2
+Grabfeld                                17
+Kaltennordheim                          33
+Kühndorf                                 1
+Mehmels                                  6
+Meiningen                              122
+Neubrunn                                3
+Oberhof                                 6
+Obermaßfeld-Grimmenthal                 4
+Oberweid                                6
+Rhönblick                               9
+Rippershausen                            5
+Ritschenhausen                           1
+Rohr                                    12
+Rosa                                    29
+Roßdorf                                10
+Schmalkalden                           111
+Schwallungen                            32
+Schwarza                                 1
+Steinbach-Hallenberg                    38
+Sülzfeld                                24
+Untermaßfeld                             7
+Utendorf                                 3
+Wasungen                                54
+Zella-Mehlis                            29
+Gesamtergebnis                         713
+
