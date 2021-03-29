@@ -1,0 +1,64 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 29. März 2021
+
+
+COVID-19 Tägliches Lagebild                                                x
+Stand:                                                          29.03.2021 10:00 Uhr
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24 h (Meldedatum kann abweichen)                     40
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         7.611
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                     62
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                    24
+
+Verstorbene im Zusammenhang mit COVID19                                         282
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     6.604
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                              0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)           351,4
+Quarantänefälle
+
+aktive positive Fälle                                                           725
+Aktive Fälle nach Gemeinden
+                              Anzahl von
+Zeilenbeschriftungen          fallFallkennzeichen
+Belrieth                                   4
+Breitungen/Werra                          48
+Brotterode-Trusetal                       34
+Christes                                   1
+Einhausen                                  5
+Erbenhausen                                4
+Fambach                                   11
+Floh-Seligenthal                          44
+Frankenheim/Rhön                           9
+Friedelshausen                             2
+Grabfeld                                  17
+Kaltennordheim                            42
+Mehmels                                    6
+Meiningen                                117
+Oberhof                                    7
+Obermaßfeld-Grimmenthal                    4
+Oberweid                                   3
+Rhönblick                                 12
+Rippershausen                              3
+Ritschenhausen                             3
+Rohr                                      10
+Rosa                                      27
+Roßdorf                                   13
+Schmalkalden                             117
+Schwallungen                              35
+Schwarza                                   1
+Steinbach-Hallenberg                      39
+Sülzfeld                                  18
+Untermaßfeld                               7
+Utendorf                                   3
+Wasungen                                  48
+Zella-Mehlis                              31
+Gesamtergebnis                           725
+
