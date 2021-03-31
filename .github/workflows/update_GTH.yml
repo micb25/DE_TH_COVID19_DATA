@@ -1,6 +1,7 @@
 name: daily GTH update
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "15 21 * * *"
 

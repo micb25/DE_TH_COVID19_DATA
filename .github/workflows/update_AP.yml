@@ -1,9 +1,7 @@
 name: daily AP update
 
 on:
-#  push:
-#    branches:
-#      - master
+  workflow_dispatch:
   schedule:
     - cron: "15 22 * * *"
 

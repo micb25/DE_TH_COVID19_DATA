@@ -1,6 +1,7 @@
 name: daily SON update
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "15 18 * * *"
 

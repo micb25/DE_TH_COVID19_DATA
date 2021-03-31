@@ -1,6 +1,7 @@
 name: daily EIC update
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "00 18 * * *"
 
