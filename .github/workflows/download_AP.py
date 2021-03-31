@@ -9,7 +9,7 @@ DATAPATH = os.path.dirname(os.path.abspath(__file__)) + os.sep + ".." + os.sep +
 DATE_STR = datetime.fromtimestamp(datetime.now().timestamp()).strftime('%Y-%m-%d')
 FILENAME = "AP_{}.html".format(DATE_STR)
 FULLNAME = DATAPATH + FILENAME
-URL  = "https://weimarerland.de/soziales/gesundheit/CovidZahlen.html"
+URL  = "https://weimarerland.de/de/aktuelle-informationen-zum-coronavirus/aktuelle-informationen-zum-coronavirus.html"
 
 if os.path.isfile(FULLNAME):
 

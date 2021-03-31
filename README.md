@@ -26,7 +26,7 @@ Gesammelte COVID19-Daten von den Thüringer Landkreisen und kreisfreien Städten
 | 20  | UH          | Unstrut-Hainich-Kreis  | [data_UH/](data_UH/)   | [https://www.unstrut-hainich-kreis.de/index.php/informationen-zum-neuartigen-coronavirus](https://www.unstrut-hainich-kreis.de/index.php/informationen-zum-neuartigen-coronavirus)
 | 21  | WAK         | Wartburgkreis          | [data_EA_WAK/](data_EA_WAK/) | [https://www.wartburgkreis.de/leben-im-wartburgkreis/gesundheit/aktuelle-informationen-zum-corona-virus](https://www.wartburgkreis.de/leben-im-wartburgkreis/gesundheit/aktuelle-informationen-zum-corona-virus)
 | 22  | WE          | Weimar                 | [data_WE/](data_WE/)   | [https://stadt.weimar.de/aktuell/coronavirus/](https://stadt.weimar.de/aktuell/coronavirus/)
-| 23  | AP          | Weimarer Land          | [data_AP/](data_AP/)   | [https://weimarerland.de/soziales/gesundheit/CovidZahlen.html](https://weimarerland.de/soziales/gesundheit/CovidZahlen.html)
+| 23  | AP          | Weimarer Land          | [data_AP/](data_AP/)   | [https://weimarerland.de/de/aktuelle-informationen-zum-coronavirus/aktuelle-informationen-zum-coronavirus.html](https://weimarerland.de/de/aktuelle-informationen-zum-coronavirus/aktuelle-informationen-zum-coronavirus.html)
 
 Sonstige Thüringer Daten:
 
