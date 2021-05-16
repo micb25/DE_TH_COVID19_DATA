@@ -1,0 +1,78 @@
+Landkreis Schmalkalden-Meiningen
+Sonntag, 16. Mai 2021
+
+
+COVID-19 Tägliches Lagebild                                               x
+Stand:                                                         16.05.2021 10:00 Uhr
+
+
+
+
+Aspekt                                                                      Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                    39
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                       9.709
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                   38
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                  18
+
+Verstorbene im Zusammenhang mit COVID19                                       347
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                   9009
+
+
+Gesamt-COVID19 Tests Brückentag/Vortag durch FD Gesundheit                    172
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)         126,5
+Quarantänefälle
+
+aktive positive Fälle                                                         353
+
+
+
+
+Aktive Fälle nach Gemeinden
+                              Anzahl von
+Zeilenbeschriftungen          fallFallkennzeichen
+
+Belrieth                                    2
+Breitungen/Werra                            7
+Brotterode-Trusetal                         8
+Christes                                    4
+Dillstädt                                   1
+Erbenhausen                                 1
+Fambach                                     11
+Floh-Seligenthal                            33
+
+1
+Frankenheim/Rhön           3
+Grabfeld                  13
+Kaltennordheim            23
+Mehmels                    2
+Meiningen                 57
+Oberhof                   15
+Obermaßfeld-Grimmenthal    2
+Oberweid                   5
+Rhönblick                  7
+Rippershausen              7
+Rohr                       4
+Rosa                       4
+Roßdorf                    2
+Schmalkalden              79
+Schwallungen               3
+Schwarza                   5
+Steinbach-Hallenberg      10
+Untermaßfeld               2
+Vachdorf                   3
+Wasungen                   7
+Zella-Mehlis              33
+
+Gesamtergebnis            353
+
+
+
+
+2
+
