@@ -1,0 +1,63 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 17. Mai 2021
+
+
+COVID-19 Tägliches Lagebild                                               x
+Stand:                                                         17.05.2021 10:00 Uhr
+
+
+
+Aspekt                                                                         Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                       10
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                          9.719
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                      34
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     17
+
+Verstorbene im Zusammenhang mit COVID19                                          348
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                      9.063
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                               0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)            124,9
+Quarantänefälle
+
+aktive positive Fälle                                                            308
+Aktive Fälle nach Gemeinden
+Zeilenbeschriftungen     Anzahl von fallFallkennzeichen
+Belrieth                                2
+Breitungen/Werra                        6
+Brotterode-Trusetal                     6
+Christes                                3
+Dillstädt                               1
+Erbenhausen                             4
+Fambach                                10
+Floh-Seligenthal                       25
+Frankenheim/Rhön                        2
+Grabfeld                               11
+Kaltennordheim                         21
+Mehmels                                 2
+Meiningen                              49
+Oberhof                                13
+Obermaßfeld-Grimmenthal                 2
+Oberweid                                7
+Rhönblick                               7
+Rippershausen                           6
+Rohr                                    4
+Rosa                                    4
+Roßdorf                                 2
+Schmalkalden                           71
+Schwallungen                            2
+Schwarza                                3
+Steinbach-Hallenberg                   10
+Untermaßfeld                            2
+Vachdorf                                1
+Wasungen                                5
+Zella-Mehlis                           27
+Gesamtergebnis                        308
+
