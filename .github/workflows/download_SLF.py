@@ -11,7 +11,8 @@ def scrapeSLFPage(url):
     
     headers = { 'Pragma': 'no-cache', 'Cache-Control': 'no-cache' }
     
-    pattern_date = re.compile(r"<div class=\"content_mitte_datum\sdetail\">([0-9]{1,2})\.([0-9]{1,2})\.([0-9]{4})</div>")
+    # pattern_date = re.compile(r"<div class=\"content_mitte_datum\sdetail\">([0-9]{1,2})\.([0-9]{1,2})\.([0-9]{4})</div>")
+    pattern_date = re.compile(r"datePublished\"\sdatetime=\"([\d]{2})\.([\d]{2})\.([\d]{4})\"")
     
     try:
         r = requests.get(url, headers=headers, allow_redirects=True, timeout=5.0)
@@ -43,7 +44,7 @@ def scrapeSLF():
     baseurl = "https://www.kreis-slf.de"
     url = baseurl + "/sport-und-gesundheit/"
     headers = { 'Pragma': 'no-cache', 'Cache-Control': 'no-cache' }
-    pattern_pm = re.compile(r"<h4>.*?Coronafälle.*?</h4>.*?<a\ href=\"([^\"]*?)\"")
+    pattern_pm = re.compile(r"<h4>.*?Coronafälle.*?</h4>.*?<a\ [^>]*href=\"([^\"]*?)\"")
     
     try:
         # download the website to get the URL of the document
