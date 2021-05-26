@@ -1,0 +1,84 @@
+Landkreis Schmalkalden-Meiningen
+Mittwoch, 26. Mai 2021
+
+
+COVID-19 Tägliches Lagebild                                                 x
+Stand:                                                           26.05.2021 10:00 Uhr
+
+
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                       12
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.869
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                      19
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     6
+
+Verstorbene im Zusammenhang mit COVID19                                         362
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.292
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                              66
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)            52,8
+Quarantänefälle
+
+aktive positive Fälle                                                           215
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Belrieth                            2
+
+Breitungen/Werra                    9
+
+Brotterode-Trusetal                 10
+
+Christes                            3
+
+Einhausen                           1
+
+Erbenhausen                         17
+
+Fambach                             7
+
+Floh-Seligenthal                    16
+
+Grabfeld                            4
+
+Kaltennordheim                      12
+
+Meiningen                           19
+
+Oberhof                             5
+
+Obermaßfeld-Grimmenthal             4
+
+Oberweid                            16
+
+Rhönblick                           2
+
+Rippershausen                       4
+
+Rohr                                2
+
+Rosa                                2
+
+Schmalkalden                        49
+
+Steinbach-Hallenberg                8
+
+Sülzfeld                            2
+
+Untermaßfeld                        1
+
+Wasungen                            5
+
+Zella-Mehlis                        15
+
+Gesamtergebnis                     215
+
