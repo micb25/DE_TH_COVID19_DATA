@@ -1,0 +1,86 @@
+Landkreis Schmalkalden-Meiningen
+Donnerstag, 27. Mai 2021
+
+
+COVID-19 Tägliches Lagebild                                                x
+Stand:                                                          27.05.2021 10:00 Uhr
+
+
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                      30
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.899
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                     16
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     6
+
+Verstorbene im Zusammenhang mit COVID19                                         363
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.313
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                             92
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)           51,2
+Quarantänefälle
+
+aktive positive Fälle                                                           223
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Belrieth                                   2
+
+Breitungen/Werra                           7
+
+Brotterode-Trusetal                    10
+
+Christes                                   3
+
+Dillstädt                                  2
+
+Einhausen                                  1
+
+Erbenhausen                            17
+
+Fambach                                    6
+
+Floh-Seligenthal                       20
+
+Grabfeld                                   3
+
+Kaltennordheim                         11
+
+Meiningen                              23
+
+Oberhof                                    5
+
+Obermaßfeld-Grimmenthal                    4
+
+Oberweid                               16
+
+Rhönblick                                  1
+
+Rippershausen                              2
+
+Rohr                                       2
+
+Rosa                                       2
+
+Schmalkalden                           51
+
+Steinbach-Hallenberg                       8
+
+Sülzfeld                                   2
+
+Untermaßfeld                               1
+
+Wasungen                                   9
+
+Zella-Mehlis                           15
+
+Gesamtergebnis                         223
+
