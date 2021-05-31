@@ -1,0 +1,74 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 31. Mai 2021
+
+
+COVID-19 Tägliches Lagebild                                               x
+Stand:                                                         31.05.2021 10:00 Uhr
+
+
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                      12
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.947
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                     14
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                    7
+
+Verstorbene im Zusammenhang mit COVID19                                        365
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.430
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                             0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)           77,7
+Quarantänefälle
+
+aktive positive Fälle                                                          152
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Breitungen/Werra                      7
+
+Brotterode-Trusetal                  11
+
+Christes                              2
+
+Dillstädt                             4
+
+Floh-Seligenthal                     20
+
+Grabfeld                              3
+
+Kaltennordheim                       15
+
+Meiningen                            19
+
+Oberhof                               3
+
+Obermaßfeld-Grimmenthal               4
+
+Oberweid                              4
+
+Rhönblick                             1
+
+Rippershausen                         2
+
+Rohr                                  1
+
+Schmalkalden                         29
+
+Steinbach-Hallenberg                  4
+
+Untermaßfeld                          2
+
+Wasungen                             12
+
+Zella-Mehlis                          9
+
+Gesamtergebnis                       152
+
