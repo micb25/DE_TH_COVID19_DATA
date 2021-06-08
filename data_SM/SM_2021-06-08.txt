@@ -1,0 +1,78 @@
+Landkreis Schmalkalden-Meiningen
+Dienstag, 08. Juni 2021
+
+
+COVID-19 Tägliches Lagebild                                                x
+Stand:                                                          08.06.2021 10:00 Uhr
+
+
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                       2
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.986
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                      9
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     7
+
+Verstorbene im Zusammenhang mit COVID19                                         368
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.524
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                             54
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)           26,4
+Quarantänefälle
+
+aktive positive Fälle                                                           94
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Breitungen/Werra                      6
+
+Brotterode-Trusetal                   5
+
+Christes                              2
+
+Dillstädt                             4
+
+Erbenhausen                           1
+
+Floh-Seligenthal                      14
+
+Grabfeld                              2
+
+Kaltennordheim                        11
+
+Kühndorf                              1
+
+Meiningen                             11
+
+Oberhof                               2
+
+Obermaßfeld-Grimmenthal               1
+
+Oberweid                              1
+
+Rhönblick                             1
+
+Rippershausen                         2
+
+Schmalkalden                          12
+
+Schwarza                              1
+
+Steinbach-Hallenberg                  5
+
+Untermaßfeld                          2
+
+Wasungen                              6
+
+Zella-Mehlis                          4
+
+Gesamtergebnis                        94
+
