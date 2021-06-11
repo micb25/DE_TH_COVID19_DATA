@@ -1,0 +1,80 @@
+Landkreis Schmalkalden-Meiningen
+Freitag, 11. Juni 2021
+
+
+COVID-19 Tägliches Lagebild                                                 x
+Stand:                                                           11.06.2021 10:00 Uhr
+
+
+
+Aspekt                                                                        Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                       4
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.995
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                      6
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     6
+
+Verstorbene im Zusammenhang mit COVID19                                         368
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.562
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                              10
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)            20,8
+Quarantänefälle
+
+aktive positive Fälle                                                            65
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Breitungen/Werra                     4
+
+Brotterode-Trusetal                  3
+
+Christes                             2
+
+Dillstädt                            2
+
+Erbenhausen                          1
+
+Floh-Seligenthal                     9
+
+Grabfeld                             1
+
+Kaltennordheim                       9
+
+Kühndorf                             1
+
+Meiningen                            8
+
+Oberhof                              2
+
+Obermaßfeld-Grimmenthal              1
+
+Oberweid                             1
+
+Rhönblick                            1
+
+Rippershausen                        1
+
+Schmalkalden                         6
+
+Schwarza                             1
+
+Steinbach-Hallenberg                 4
+
+Untermaßfeld                         1
+
+Vachdorf                             1
+
+Wasungen                             1
+
+Zella-Mehlis                         5
+
+Gesamtergebnis                      65
+
