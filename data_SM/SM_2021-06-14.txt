@@ -1,0 +1,72 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 14. Juni 2021
+
+
+COVID-19 Tägliches Lagebild                                                  x
+Stand:                                                            14.06.2021 10:00 Uhr
+
+
+
+Aspekt                                                                         Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                       0
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         9.998
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                      7
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                     7
+
+Verstorbene im Zusammenhang mit COVID19                                         368
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                     9.582
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                              0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)            12,0
+Quarantänefälle
+
+aktive positive Fälle                                                            48
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen          Anzahl von
+
+Breitungen/Werra                           3
+
+Brotterode-Trusetal                        2
+
+Dillstädt                                  2
+
+Erbenhausen                                1
+
+Floh-Seligenthal                           7
+
+Kaltennordheim                             5
+
+Kühndorf                                   1
+
+Meiningen                                  6
+
+Obermaßfeld-Grimmenthal                    1
+
+Oberweid                                   1
+
+Rhönblick                                  1
+
+Schmalkalden                               5
+
+Schwarza                                   1
+
+Steinbach-Hallenberg                       4
+
+Untermaßfeld                               1
+
+Vachdorf                                   1
+
+Wasungen                                   1
+
+Zella-Mehlis                               5
+
+Gesamtergebnis                         48
+
