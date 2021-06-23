@@ -1,0 +1,53 @@
+Landkreis Schmalkalden-Meiningen
+Mittwoch, 23. Juni 2021
+
+
+COVID-19 Tägliches Lagebild                                            x
+Stand:                                                      23.06.2021 10:00 Uhr
+
+
+
+Aspekt                                                                    Anzahl
+
+Befundeingänge seit der letzten Meldung (Meldedatum kann abweichen)          1
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                    10.002
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                  0
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                 2
+
+Verstorbene im Zusammenhang mit COVID19                                     368
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                 9.622
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                          5
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)        2,4
+Quarantänefälle
+
+aktive positive Fälle                                                       12
+
+
+
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen                   Anzahl von
+
+Erbenhausen                                   2
+
+Floh-Seligenthal                              1
+
+Kühndorf                                      1
+
+Obermaßfeld-Grimmenthal                       1
+
+Schmalkalden                                  2
+
+Steinbach-Hallenberg                          1
+
+Zella-Mehlis                                  4
+
+Gesamtergebnis                                12
+
