@@ -1,0 +1,42 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 05. Juli 2021
+
+
+COVID-19 Tägliches Lagebild                                                  x
+Stand:                                                            05.07.2021 10:00 Uhr
+
+
+
+Aspekt                                                                         Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)                        0
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                         10.002
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                       1
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                      0
+
+Verstorbene im Zusammenhang mit COVID19                                          368
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                      9.633
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                               0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)             0,8
+Quarantänefälle
+
+aktive positive Fälle                                                             1
+
+
+
+
+Aktive Fälle nach Gemeinden
+                                          Anzahl von
+Zeilenbeschriftungen                      fallFallkennzeichen
+
+Schmalkalden                                             1
+
+Gesamtergebnis                                           1
+
