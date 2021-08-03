@@ -1,0 +1,50 @@
+Landkreis Schmalkalden-Meiningen
+Dienstag, 03. August 2021
+
+
+COVID-19 Tägliches Lagebild                                         x
+Stand:                                                   03.08.2021 10:00 Uhr
+
+
+
+Aspekt                                                                 Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)               7
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                 10.057
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19              0
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19             1
+
+Verstorbene im Zusammenhang mit COVID19                                 371
+
+Gesamtzahl abgelaufener Quarantänezeitraum                             9.659
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                      56
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)    14,4
+Quarantänefälle
+
+aktive positive Fälle                                                    27
+
+
+
+
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen Anzahl von fallFallkennzeichen
+
+Ellingshausen                          1
+
+Floh-Seligenthal                       1
+
+Meiningen                              1
+
+Schwarza                               1
+
+Zella-Mehlis                          23
+
+Gesamtergebnis                        27
+
