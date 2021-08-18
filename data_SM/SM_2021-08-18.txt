@@ -1,0 +1,48 @@
+Landkreis Schmalkalden-Meiningen
+Mittwoch, 18. August 2021
+
+
+COVID-19 Tägliches Lagebild                                         x
+Stand:                                                   18.08.2021 10:00 Uhr
+
+
+
+Aspekt                                                                 Anzahl
+
+Befundeingänge der letzten 24h (Meldedatum kann abweichen)               12
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                 10.091
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19               3
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19              0
+
+Verstorbene im Zusammenhang mit COVID19                                 371
+
+Gesamtzahl abgelaufener Quarantänezeitraum                              9.694
+
+
+Gesamt-COVID19 Tests vom Vortag durch FD Gesundheit                      19
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)    16,8
+Quarantänefälle
+
+aktive positive Fälle                                                    26
+
+
+
+
+Aktive Fälle nach Gemeinden
+
+Zeilenbeschriftungen                 Anzahl
+
+Brotterode-Trusetal                           3
+
+Meiningen                                     5
+
+Schmalkalden                                  6
+
+Zella-Mehlis                                  12
+
+Gesamtergebnis                                26
+
