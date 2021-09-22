@@ -1,0 +1,83 @@
+Landkreis Schmalkalden-Meiningen
+Mittwoch, 22. September 2021
+
+
+COVID-19 Tägliches Lagebild                                                                   x
+Stand:                                                                    22.09.2021 10:00 Uhr
+Aspekt                                                                                        Anzahl
+
+Befundeingänge seit der letzten Lagemeldung (Meldedatum kann abweichen)                       7
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                        10.301
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                   4
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                  1
+
+Verstorbene im Zusammenhang mit COVID19                                                       372
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                                    9.831
+
+
+Gesamt-COVID19 Tests seit der letzten Lagemeldung durch den Fachdienst Gesundheit             35
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)                          53,1
+
+Hospitalisierungsinzidenz laut TMASGFF                                                        1,6
+
+ITS Auslastung Thüringen laut DIVI                                                            2,96
+
+aktuelle Warnstufe laut TMASGFF                                                               0
+Quarantänefälle
+
+aktive positive Fälle                                                                         98
+
+
+
+
+Aktive Fälle nach Gemeinden
+lenbeschriftungen                                    Anzahl von fallFallkennzeichen
+
+Breitungen/Werra                                                            6
+
+Erbenhausen                                                                 2
+
+Fambach                                                                     4
+
+Floh-Seligenthal                                                            4
+
+Frankenheim/Rhön                                                            3
+
+Grabfeld                                                                    16
+Kaltennordheim         2
+
+Kühndorf               1
+
+Leutersdorf            2
+
+Meiningen              13
+
+Neubrunn               4
+
+Rhönblick              5
+
+Rippershausen          1
+
+Ritschenhausen         2
+
+Rohr                   1
+
+Rosa                   1
+
+Roßdorf                5
+
+Schmalkalden           20
+
+Steinbach-Hallenberg   1
+
+Vachdorf               2
+
+Zella-Mehlis           3
+
+Gesamtergebnis         98
+
