@@ -1,0 +1,118 @@
+Landkreis Schmalkalden-Meiningen
+Donnerstag, 18. November 2021
+
+
+COVID-19 Tägliches Lagebild                                                                          x
+Stand:                                                      10               18.11.2021, 10 Uhr
+Aspekt                                                                                                   Anzahl
+
+Befundeingänge seit der letzten Lagemeldung (Meldedatum kann abweichen)                                   44
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                                   13.394
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                               55
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                              24
+
+Verstorbene im Zusammenhang mit COVID19                                                                   413
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                                               11.910
+
+
+Gesamt-COVID19 Tests seit der letzten Lagemeldung durch den Fachdienst Gesundheit                         11
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)                                     430,6
+
+Hospitalisierungsinzidenz laut TMASGFF                                                                    8,0
+
+ITS Auslastung Thüringen laut TMASGFF                                                                     29,8
+
+Aktuelle Warnstufe laut TMASGFF                                                                            3
+Quarantänefälle
+
+aktive positive Fälle                                                                                    1071
+
+
+         Hinweis
+         Die Fallzahlen können aktuell nicht korrekt abgebildet werden, da die eingegangenen Fälle
+         aufgrund von technischen Problemen nicht vollständig an das RKI übermittelt werden.
+
+
+
+
+         Aktive Fälle nach Gemeinden
+
+         Zeilenbeschriftungen          Anzahl von fallFallkennzeichen
+
+         Belrieth                                       3
+
+         Birx                                           1
+
+         Breitungen/Werra                              59
+Brotterode-Trusetal       50
+
+Christes                  1
+
+Dillstädt                 5
+
+Einhausen                 2
+
+Erbenhausen               4
+
+Fambach                   14
+
+Floh-Seligenthal          76
+
+Frankenheim/Rhön          23
+
+Friedelshausen            3
+
+Grabfeld                  35
+
+Kaltennordheim            54
+
+Kühndorf                  12
+
+Leutersdorf               1
+
+Meiningen                 182
+
+Neubrunn                  2
+
+Oberhof                   8
+
+Obermaßfeld-Grimmenthal   10
+
+Oberweid                  4
+
+Rhönblick                 16
+
+Rippershausen             9
+
+Rohr                      5
+
+Rosa                      4
+
+Roßdorf                   3
+
+Schmalkalden              109
+
+Schwallungen              39
+
+Schwarza                  20
+
+Steinbach-Hallenberg      163
+
+Sülzfeld                  8
+Untermaßfeld      11
+
+Utendorf          4
+
+Vachdorf          3
+
+Wasungen          56
+
+Zella-Mehlis      72
+
+Gesamtergebnis   1071
+
