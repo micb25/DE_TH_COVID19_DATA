@@ -1,0 +1,118 @@
+Landkreis Schmalkalden-Meiningen
+Montag, 6. Dezember 2021
+
+
+COVID-19 Tägliches Lagebild                                                                                    x
+Stand:                                                          10                 06.12.2021, 10 Uhr
+Aspekt                                                                                                             Anzahl
+
+Befundeingänge seit der letzten Lagemeldung (Meldedatum kann abweichen)                                             196
+
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                                             17.043
+
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                                          72
+
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                                         28
+
+Verstorbene im Zusammenhang mit COVID19                                                                             449
+
+Gesamtzahl abgelaufener Quarantänezeitraum                                                                         14.295
+
+
+Gesamt-COVID19 Tests seit der letzten Lagemeldung durch den Fachdienst Gesundheit                                    0
+
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)                                               1116,4
+
+Hospitalisierungsinzidenz laut TMASGFF                                                                              28,2
+
+ITS Auslastung Thüringen laut TMASGFF in Prozent                                                                      *
+
+Aktuelle Warnstufe laut TMASGFF                                                                                      3
+Quarantänefälle
+
+aktive positive Fälle                                                                                              2299
+
+         * Leider konnte bisher keine Angabe zur ITS-Belegung angeben werden, da diese auf der Seite des
+         Thüringer Ministeriums für Arbeit, Soziales, Gesundheit, Frauen und Familie noch nicht aktualisiert
+         wurde. Hier der Link, falls die Daten noch aktualisiert werden: www.tmasgff.de/fruehwarnsystem
+
+
+
+
+         Aktive Fälle nach Gemeinden
+         Zeilenbeschriftungen                   Anzahl
+
+         Belrieth                                                3
+
+         Breitungen/Werra                                        73
+
+         Brotterode-Trusetal                                    165
+
+         Christes                                                14
+Dillstädt                  7
+
+Einhausen                  1
+
+Erbenhausen                8
+
+Fambach                   43
+
+Floh-Seligenthal          183
+
+Frankenheim/Rhön          10
+
+Friedelshausen             8
+
+Grabfeld                  81
+
+Kaltennordheim            64
+
+Kühndorf                  17
+
+Leutersdorf                1
+
+Mehmels                    2
+
+Meiningen                 328
+
+Neubrunn                  15
+
+Oberhof                   18
+
+Obermaßfeld-Grimmenthal   17
+
+Oberweid                  14
+
+Rhönblick                 37
+
+Rippershausen             12
+
+Ritschenhausen             6
+
+Rohr                      18
+
+Rosa                       5
+
+Roßdorf                    4
+
+Schmalkalden              495
+
+Schwallungen              47
+
+Schwarza                  18
+
+Steinbach-Hallenberg      212
+
+Sülzfeld                  15
+Untermaßfeld      13
+
+Utendorf          7
+
+Vachdorf          33
+
+Wasungen          87
+
+Zella-Mehlis     218
+
+Gesamtergebnis   2299
+
