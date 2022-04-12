@@ -1,0 +1,102 @@
+Landkreis Schmalkalden-Meiningen
+Dienstag, 12. April 2022
+
+
+COVID-19 Tägliches Lagebild                                                                 x
+Stand:                                                   10            12.04.2022, 10 Uhr
+Aspekt                                                                                          Anzahl
+
+Befundeingänge seit der letzten Lagemeldung (Meldedatum kann abweichen)                          151
+Gesamtzahl der bisher Infizierten mit Laborbestätigung                                          40.771
+Patienten in stationärer Behandlung - Erkrankung an COVID19                                      40
+Patienten in stationärer Behandlung - Erkrankung mit COVID19                                     30
+Verstorbene im Zusammenhang mit COVID19                                                          636
+Gesamtzahl abgelaufener Quarantänezeitraum                                                      38.874
+7-Tage-Inzidenz pro 100.000 Einwohner (nach RKI, mit Stand 0:00 Uhr)                            780,7
+Hospitalisierungsinzidenz laut TMASGFF                                                           14,5
+ITS Auslastung Thüringen laut TMASGFF in Prozent                                                 9,3
+Quarantänefälle
+
+aktive positive Fälle                                                                           1.261
+
+
+
+         Aktive Fälle nach Gemeinden
+                                            33,8Anzahl von
+         Zeilenbeschriftungen               fallFallkennzeichen
+
+         Belrieth                                             3
+
+         Birx                                                 1
+
+         Breitungen/Werra                                     44
+
+         Brotterode-Trusetal                                  86
+
+         Christes                                             8
+
+         Dillstädt                                            13
+
+         Einhausen                                            1
+
+         Ellingshausen                                        1
+
+         Erbenhausen                                          6
+Fambach                    35
+
+Floh-Seligenthal           46
+
+Frankenheim/Rhön           14
+
+Friedelshausen             4
+
+Grabfeld                   74
+
+Kaltennordheim             63
+
+Leutersdorf                2
+
+Mehmels                    15
+
+Meiningen                 284
+
+Neubrunn                   12
+
+Oberhof                    4
+
+Obermaßfeld-Grimmenthal    10
+
+Oberweid                   2
+
+Rhönblick                  19
+
+Rippershausen              8
+
+Rohr                       5
+
+Rosa                       15
+
+Roßdorf                    6
+
+Schmalkalden              179
+
+Schwallungen               21
+
+Schwarza                   10
+
+Steinbach-Hallenberg       70
+
+Sülzfeld                   7
+
+Untermaßfeld               32
+
+Utendorf                   4
+
+Vachdorf                   4
+
+Wasungen                   58
+
+Zella-Mehlis               95
+
+Gesamtergebnis            1.261
+
